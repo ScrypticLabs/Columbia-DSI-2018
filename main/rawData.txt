@@ -10,7 +10,6 @@ Race: other
                       felony petit theft: 4
            grand theft in the 1st degree: 1
             burglary unoccupied dwelling: 5
-                                     nan: 1
        possess cannabis/20 grams or less: 5
            driving while license revoked: 6
                  throw in occupied dwell: 1
@@ -162,7 +161,6 @@ aggravated battery (firearm/actual possession): 1
               burglary structure unoccup: 18
             crim use of personal id info: 18
            robbery sudd snatch no weapon: 11
-                                     nan: 12
            tamper with witness/victim/ci: 8
            throw deadly missile into veh: 2
           use scanning device to defraud: 2
@@ -447,7 +445,6 @@ Race: caucasian
                  agg fleeing and eluding: 2
                  disorderly intoxication: 9
              fail to obey police officer: 2
-                                     nan: 9
               possession of carisoprodol: 1
             crim use of personal id info: 7
                deliver 3,4 methylenediox: 8
@@ -714,7 +711,6 @@ Race: hispanic
              felony battery (dom strang): 14
                           dui - enhanced: 3
           sex offender fail comply w/law: 1
-                                     nan: 6
            sex battery deft 18+/vict 11-: 1
                license suspended revoked: 1
           live on earnings of prostitute: 2
@@ -824,7 +820,6 @@ Race: native american
                    possession of cocaine: 3
          aggr child abuse-torture,punish: 1
            driving while license revoked: 1
-                                     nan: 1
                       aggravated battery: 1
                                  battery: 1
           use of anti-shoplifting device: 1

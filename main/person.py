@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 17:41:47
+# @Last Modified time: 2018-05-22 19:03:36
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -56,15 +56,33 @@ class Crime:
 		data += "\n"
 		return data
 
-rawRelations = {}
-crimeRelations = {}
 
 if __name__ == "__main__":
+	rawRelations = {}
+	crimeRelations = {}
+	crimesByGroup = {}
+
+	file = open("unique-crimes.txt", "r")
+
+	group = ""
+	line = "1"
+	while line != "":
+		line = file.readline().strip().lower()
+		if line[:2] == "- ":
+			group = line[2:]
+		else:
+			crimesByGroup[line] = group
+	file.close()
+
+
 	datafile = "compas-scores-two-years.csv"
 	df = pd.read_csv(datafile)
 	for index, series in df.iterrows():
 		crime = str(series["c_charge_desc"]).lower()
 		race = str(series["race"]).lower()
+
+		if crime == "nan":
+			continue
 	
 		if race in rawRelations:
 			rawRelations[race].add(crime)
@@ -72,9 +90,9 @@ if __name__ == "__main__":
 			rawRelations[race] = Race(race, crime)
 
 		if crime in crimeRelations:
-			crimeRelations[crime].add(race)
+			crimeRelations[crimesByGroup[crime]].add(race)
 		else:
-			crimeRelations[crime] = Crime(crime, race)
+			crimeRelations[crimesByGroup[crime]] = Crime(crimesByGroup[crime], race)
 
 file = open("rawData.txt","w")
 for key,value in rawRelations.items():
