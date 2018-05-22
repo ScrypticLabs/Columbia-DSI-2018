@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 17:24:04
+# @Last Modified time: 2018-05-22 17:26:50
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -61,8 +61,8 @@ if __name__ == "__main__":
 	datafile = "compas-scores-two-years-violent.csv"
 	df = pd.read_csv(datafile)
 	for index, series in df.iterrows():
-		crime = series["c_charge_desc"].lower()
-		race = series["race"].lower()
+		crime = str(series["c_charge_desc"]).lower()
+		race = str(series["race"]).lower()
 		if race in rawRelations:
 			rawRelations[race].add(crime)
 		else:

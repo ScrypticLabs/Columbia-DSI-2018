@@ -1,709 +1,701 @@
-Race: Other
+Race: other
                    arrest case no charge: 39
-                                 Battery: 73
-           Grand Theft in the 3rd Degree: 22
-        Tampering With Physical Evidence: 2
-            Crim Use of Personal ID Info: 2
-                             Petit Theft: 1
-           Grand Theft in the 1st Degree: 1
-            Burglary Unoccupied Dwelling: 3
-           Driving While License Revoked: 5
-                 Throw In Occupied Dwell: 1
-          Aggravated Assault W/Dead Weap: 3
-         Failure To Return Hired Vehicle: 1
-               Resist Officer w/Violence: 3
-             Felony Battery (Dom Strang): 8
-                   Possession of Cocaine: 6
-            Aggravated Assault w/Firearm: 2
-       Possess Cannabis/20 Grams Or Less: 3
-             Grand Theft (Motor Vehicle): 5
-                        Reckless Driving: 1
-                             Child Abuse: 2
-             Driving Under The Influence: 3
-      Grand Theft of a Fire Extinquisher: 1
-          Aggrav Battery w/Deadly Weapon: 4
-              Delivery of 5-Fluoro PB-22: 1
-              Crim Attempt/Solicit/Consp: 1
-           Fraudulent Use of Credit Card: 1
-                  Possession of Cannabis: 1
-                        Robbery / Weapon: 1
-                 Possession of Oxycodone: 1
-          Fleeing Or Attmp Eluding A Leo: 1
-          Trespass Structure w/Dang Weap: 1
-               Att Burgl Unoccupied Dwel: 1
-          Poss3,4 Methylenedioxymethcath: 3
-          DUI Level 0.15 Or Minor In Veh: 2
-           Pos Cannabis W/Intent Sel/Del: 4
-              Burglary Structure Unoccup: 2
-            Uttering a Forged Instrument: 2
-                       Robbery W/Firearm: 1
-                      Prowling/Loitering: 1
-                Possession Of Alprazolam: 2
-            Viol Prot Injunc Repeat Viol: 1
-                       Purchase Cannabis: 1
-                     Robbery / No Weapon: 1
-          Felony Driving While Lic Suspd: 2
-                  Possession Of Diazepam: 1
-Sell or Offer for Sale Counterfeit Goods: 1
-            Resist/Obstruct W/O Violence: 2
-          Neglect Child / No Bodily Harm: 3
-          Aggravated Assault W/dead Weap: 3
-              Carrying Concealed Firearm: 3
-                                 Assault: 1
-           Harass Witness/Victm/Informnt: 1
-          Viol Injunct Domestic Violence: 5
-               Driving License Suspended: 1
-          Lewd/Lasciv Molest Elder Persn: 1
-                      Aggravated Assault: 2
-           Possession Of Methamphetamine: 1
-                          Felony Battery: 1
-              DUI Property Damage/Injury: 1
-              Burglary Dwelling Occupied: 2
-                      Shoot Into Vehicle: 1
-                      Disorderly Conduct: 2
-          Poss Unlaw Issue Driver Licenc: 1
-          Felony Batt(Great Bodily Harm): 1
-       Agg Abuse Elderlly/Disabled Adult: 1
-               Deliver 3,4 Methylenediox: 1
-                      False Imprisonment: 2
-                Structuring Transactions: 1
-              Dealing in Stolen Property: 1
-                   Stalking (Aggravated): 1
-                      Felony Petit Theft: 1
-           Expired DL More Than 6 Months: 1
-                Agg Battery Grt/Bod/Harm: 1
-                        Deliver Cannabis: 1
-          Conspiracy Dealing Stolen Prop: 1
-           Trespass Property w/Dang Weap: 1
-           Tamper With Witness/Victim/CI: 1
-            Criminal Mischief>$200<$1000: 1
-           Armed Trafficking in Cannabis: 1
-          Agg Assault W/int Com Fel Dome: 1
-                       Criminal Mischief: 1
-          Criminal Mischief Damage <$200: 1
-           Throw Deadly Missile Into Veh: 1
-          Burglary Dwelling Assault/Batt: 1
-                         Deliver Cocaine: 1
-           Aggravated Battery / Pregnant: 1
+                                 battery: 73
+           grand theft in the 3rd degree: 22
+        tampering with physical evidence: 2
+            crim use of personal id info: 2
+                             petit theft: 1
+           grand theft in the 1st degree: 1
+            burglary unoccupied dwelling: 3
+           driving while license revoked: 5
+                 throw in occupied dwell: 1
+          aggravated assault w/dead weap: 6
+         failure to return hired vehicle: 1
+               resist officer w/violence: 3
+             felony battery (dom strang): 8
+                   possession of cocaine: 6
+            aggravated assault w/firearm: 2
+       possess cannabis/20 grams or less: 3
+             grand theft (motor vehicle): 5
+                        reckless driving: 1
+                             child abuse: 2
+             driving under the influence: 3
+      grand theft of a fire extinquisher: 1
+          aggrav battery w/deadly weapon: 4
+              delivery of 5-fluoro pb-22: 1
+              crim attempt/solicit/consp: 1
+           fraudulent use of credit card: 1
+                  possession of cannabis: 1
+                        robbery / weapon: 1
+                 possession of oxycodone: 1
+          fleeing or attmp eluding a leo: 1
+          trespass structure w/dang weap: 1
+               att burgl unoccupied dwel: 1
+          poss3,4 methylenedioxymethcath: 3
+          dui level 0.15 or minor in veh: 2
+           pos cannabis w/intent sel/del: 4
+              burglary structure unoccup: 2
+            uttering a forged instrument: 2
+                       robbery w/firearm: 1
+                      prowling/loitering: 1
+                possession of alprazolam: 2
+            viol prot injunc repeat viol: 1
+                       purchase cannabis: 1
+                     robbery / no weapon: 1
+          felony driving while lic suspd: 2
+                  possession of diazepam: 1
+sell or offer for sale counterfeit goods: 1
+            resist/obstruct w/o violence: 2
+          neglect child / no bodily harm: 3
+              carrying concealed firearm: 3
+                                 assault: 1
+           harass witness/victm/informnt: 1
+          viol injunct domestic violence: 5
+               driving license suspended: 1
+          lewd/lasciv molest elder persn: 1
+                      aggravated assault: 2
+           possession of methamphetamine: 1
+                          felony battery: 1
+              dui property damage/injury: 1
+              burglary dwelling occupied: 2
+                      shoot into vehicle: 1
+                      disorderly conduct: 2
+          poss unlaw issue driver licenc: 1
+          felony batt(great bodily harm): 1
+       agg abuse elderlly/disabled adult: 1
+               deliver 3,4 methylenediox: 1
+                      false imprisonment: 2
+                structuring transactions: 1
+              dealing in stolen property: 1
+                   stalking (aggravated): 1
+                      felony petit theft: 1
+           expired dl more than 6 months: 1
+                agg battery grt/bod/harm: 1
+                        deliver cannabis: 1
+          conspiracy dealing stolen prop: 1
+           trespass property w/dang weap: 1
+           tamper with witness/victim/ci: 1
+            criminal mischief>$200<$1000: 1
+           armed trafficking in cannabis: 1
+          agg assault w/int com fel dome: 1
+                       criminal mischief: 1
+          criminal mischief damage <$200: 1
+           throw deadly missile into veh: 1
+          burglary dwelling assault/batt: 1
+                         deliver cocaine: 1
+           aggravated battery / pregnant: 1
 
-Race: African-American
-                  Possession of Cannabis: 25
-          Poss3,4 Methylenedioxymethcath: 22
-           Grand Theft in the 3rd Degree: 128
-              Carrying Concealed Firearm: 17
-        Tampering With Physical Evidence: 20
+Race: african-american
+                  possession of cannabis: 25
+          poss3,4 methylenedioxymethcath: 22
+           grand theft in the 3rd degree: 130
+              carrying concealed firearm: 17
+        tampering with physical evidence: 20
                    arrest case no charge: 422
-           Unlaw Use False Name/Identity: 3
-                   Possession of Cocaine: 117
-            Uttering a Forged Instrument: 18
-            Attempt Armed Burglary Dwell: 1
-                                 Battery: 372
-           Driving While License Revoked: 64
-          Poss Cocaine/Intent To Del/Sel: 7
-             Felony Battery (Dom Strang): 34
-       Possess Cannabis/20 Grams Or Less: 32
-          Fail To Redeliv Hire/Leas Prop: 2
-                      Lewdness Violation: 2
-           Poss Pyrrolidinovalerophenone: 7
-                                 Assault: 14
-         Burglary Conveyance Assault/Bat: 3
-          Aggravated Assault W/dead Weap: 21
-            Resist/Obstruct W/O Violence: 18
-                Agg Battery Grt/Bod/Harm: 9
-                       Criminal Mischief: 3
-          Aggrav Battery w/Deadly Weapon: 29
-Aggravated Battery (Firearm/Actual Possession): 1
-             Grand Theft (Motor Vehicle): 32
-                        Robbery / Weapon: 3
-           Pos Cannabis W/Intent Sel/Del: 30
-           Aggravated Battery / Pregnant: 23
-                      Prowling/Loitering: 5
-               Possession Burglary Tools: 10
-             Burglary Conveyance Unoccup: 13
-          Aggravated Assault W/Dead Weap: 22
-           Battery on Law Enforc Officer: 16
-           Opert With Susp DL 2nd Offens: 3
-               Driving License Suspended: 27
-            Attempted Robbery  No Weapon: 2
-              Burglary Structure Unoccup: 5
-            Crim Use of Personal ID Info: 13
+           unlaw use false name/identity: 3
+                   possession of cocaine: 117
+            uttering a forged instrument: 18
+            attempt armed burglary dwell: 1
+                                 battery: 372
+           driving while license revoked: 64
+          poss cocaine/intent to del/sel: 7
+             felony battery (dom strang): 34
+       possess cannabis/20 grams or less: 32
+          fail to redeliv hire/leas prop: 2
+                      lewdness violation: 2
+           poss pyrrolidinovalerophenone: 7
+                                 assault: 14
+         burglary conveyance assault/bat: 3
+          aggravated assault w/dead weap: 43
+            resist/obstruct w/o violence: 18
+                agg battery grt/bod/harm: 9
+                       criminal mischief: 3
+          aggrav battery w/deadly weapon: 29
+aggravated battery (firearm/actual possession): 1
+             grand theft (motor vehicle): 32
+                        robbery / weapon: 3
+           pos cannabis w/intent sel/del: 30
+           aggravated battery / pregnant: 23
+                      prowling/loitering: 5
+               possession burglary tools: 10
+             burglary conveyance unoccup: 13
+           battery on law enforc officer: 16
+           opert with susp dl 2nd offens: 3
+               driving license suspended: 27
+            attempted robbery  no weapon: 2
+              burglary structure unoccup: 5
+            crim use of personal id info: 14
                                      nan: 8
-          Felony Driving While Lic Suspd: 36
-            Burglary Unoccupied Dwelling: 38
-                      Aggravated Battery: 13
-                Possession Of Alprazolam: 8
-            Aggravated Assault w/Firearm: 7
-           Fraudulent Use of Credit Card: 2
-           Cash Item w/Intent to Defraud: 1
-          False Ownership Info/Pawn Item: 2
-            Susp Drivers Lic 1st Offense: 24
-                   Fail Register Vehicle: 5
-           Trespassing/Construction Site: 2
-                        Reckless Driving: 2
-          Consp Traff Oxycodone 28g><30k: 1
-                      Felony Petit Theft: 16
-          Burglary Dwelling Assault/Batt: 9
-                 Agg Fleeing and Eluding: 2
-          Drivg While Lic Suspd/Revk/Can: 3
-                      Disorderly Conduct: 6
-                     Robbery / No Weapon: 10
-                     Grand Theft Firearm: 4
-          Failure To Pay Taxi Cab Charge: 1
-          DUI Level 0.15 Or Minor In Veh: 7
-                 Poss 3,4 MDMA (Ecstasy): 2
-          Use Scanning Device to Defraud: 1
-           Tamper With Witness/Victim/CI: 5
-Violation of Injunction Order/Stalking/Cyberstalking: 1
-             Fail To Obey Police Officer: 2
-                 Obstruct Fire Equipment: 2
-               Unauth Poss ID Card or DL: 3
-                             Child Abuse: 2
-               Attempted Robbery Firearm: 1
-                     Fail To Secure Load: 1
-             Driving Under The Influence: 15
-           Fel Drive License Perm Revoke: 1
-                        Deliver Cannabis: 7
-                    Manufacture Cannabis: 2
-               Resist Officer w/Violence: 16
-             Simulation of Legal Process: 1
-                             Petit Theft: 11
-                Fleeing or Eluding a LEO: 2
-            Viol Prot Injunc Repeat Viol: 7
-                Fighting/Baiting Animals: 1
-                 Disorderly Intoxication: 4
-                         Deliver Cocaine: 13
-          Depriv LEO of Protect/Communic: 1
-           Robbery Sudd Snatch No Weapon: 6
-           Trespass Structure/Conveyance: 2
-          Sale/Del Counterfeit Cont Subs: 1
-             Operating W/O Valid License: 13
-          Introduce Contraband Into Jail: 4
-          Posses/Disply Susp/Revk/Frd DL: 2
-            DUI Blood Alcohol Above 0.20: 3
-               Burglary Conveyance Armed: 4
-                       Robbery W/Firearm: 5
-          Felony Battery w/Prior Convict: 20
-                      False Imprisonment: 7
-          Poss Unlaw Issue Driver Licenc: 3
-                          Felony Battery: 6
-           Retail Theft $300 1st Offense: 1
-             Gambling/Gamb Paraphernalia: 1
-            Neglect/Abuse Elderly Person: 1
-           Grand Theft In The 3Rd Degree: 2
-            Poss Of Controlled Substance: 6
-              Leaving Acc/Unattended Veh: 2
-               Carjacking with a Firearm: 1
-              DUI Property Damage/Injury: 9
-                     Culpable Negligence: 1
-          Exploit Elderly Person 20-100K: 1
-              Poss of Methylethcathinone: 3
-            Prostitution/Lewdness/Assign: 1
-             Neglect Child / Bodily Harm: 2
-          Possession of Benzylpiperazine: 2
-           Burglary With Assault/battery: 5
-       Prostitution/Lewd Act Assignation: 3
-              Grand Theft Dwell Property: 1
-               Att Burgl Unoccupied Dwel: 6
-            Ride Tri-Rail Without Paying: 1
-              Disrupting School Function: 1
-                   Strong Armed  Robbery: 1
-          Poss Trifluoromethylphenylpipe: 1
-          Felony Batt(Great Bodily Harm): 5
-             Carry Open/Uncov Bev In Pub: 1
-          Fleeing Or Attmp Eluding A Leo: 3
-                      Aggravated Assault: 2
-          Att Tamper w/Physical Evidence: 1
-             Refuse to Supply DNA Sample: 1
-           Poss Drugs W/O A Prescription: 1
-           Grand Theft in the 1st Degree: 1
-          Leave Accd/Attend Veh/Less $50: 1
-     Poss of Cocaine W/I/D/S 1000FT Park: 5
-             Lewd Act Presence Child 16-: 1
-             Soliciting For Prostitution: 1
-              Poss Tetrahydrocannabinols: 1
-          Aggrav Stalking After Injunctn: 4
-              Possess Drug Paraphernalia: 2
-               Attempt Burglary (Struct): 1
-                 Burglary Dwelling Armed: 2
-               Deliver 3,4 Methylenediox: 3
-          Violation License Restrictions: 1
-                   Stalking (Aggravated): 3
-           Throw Deadly Missile Into Veh: 1
-             Battery on a Person Over 65: 3
-          Felon in Pos of Firearm or Amm: 1
-            Poss Anti-Shoplifting Device: 2
-          Neglect Child / No Bodily Harm: 7
-          Viol Injunct Domestic Violence: 5
-                 Open Carrying Of Weapon: 1
-           Hiring with Intent to Defraud: 1
-             Carrying A Concealed Weapon: 1
-            Solicitation On Felony 3 Deg: 1
-Sell or Offer for Sale Counterfeit Goods: 2
-          Agg Assault W/int Com Fel Dome: 3
-            Crim Use Of Personal Id Info: 1
-           Possession Of Methamphetamine: 3
-         Burglary Structure Assault/Batt: 1
-                 Possession of Oxycodone: 5
-                 Shoot In Occupied Dwell: 1
-          Criminal Mischief Damage <$200: 3
-          Viol Pretrial Release Dom Viol: 3
-           Leave Acc/Attend Veh/More $50: 2
-          False Motor Veh Insurance Card: 1
-                DWLS Susp/Cancel Revoked: 1
-            Deliver Cocaine 1000FT Store: 1
-                   Uttering Forged Bills: 3
-          Poss of Firearm by Convic Felo: 1
-            Carjacking w/o Deadly Weapon: 1
-          Aggrav Child Abuse-Causes Harm: 1
-              Burglary Dwelling Occupied: 7
-                  Petit Theft $100- $300: 3
-                   Possession of Codeine: 2
-                    Cruelty Toward Child: 5
-             Exposes Culpable Negligence: 6
-          Traffick Amphetamine 28g><200g: 1
-       Contribute Delinquency Of A Minor: 1
-            Oper Motorcycle W/O Valid DL: 1
-        Poss/Sell/Del Cocaine 1000FT Sch: 1
-              Murder in the First Degree: 1
-               Possession of Hydrocodone: 2
-             Unlaw LicTag/Sticker Attach: 4
-          Possession Of 3,4Methylenediox: 1
-          Viol Injunction Protect Dom Vi: 1
-          Offn Against Intellectual Prop: 1
-            Interfere W/Traf Cont Dev RR: 1
-                       Purchase Cannabis: 3
-    Tresspass in Structure or Conveyance: 2
-                    Possession Of Heroin: 1
-          Att Burgl Struc/Conv Dwel/Occp: 1
-                    Murder in 2nd Degree: 1
-          Forging Bank Bills/Promis Note: 2
-                     Poss Wep Conv Felon: 2
-             Tresspass Struct/Conveyance: 1
-         Failure To Return Hired Vehicle: 3
-          DWI w/Inj Susp Lic / Habit Off: 1
-          Poss Contr Subst W/o Prescript: 3
-          Del 3,4 Methylenedioxymethcath: 1
-           Lease For Purpose Trafficking: 1
-                   Poss Of RX Without RX: 1
-          Aggrav Child Abuse-Agg Battery: 3
-                          DUI - Enhanced: 3
-            DWLS Canceled Disqul 1st Off: 1
-               Bribery Athletic Contests: 1
-           Grand Theft on 65 Yr or Older: 2
-          Felony/Driving Under Influence: 2
-          Unauth C/P/S Sounds>1000/Audio: 1
-            Lve/Scen/Acc/Veh/Prop/Damage: 1
-           Cause Anoth Phone Ring Repeat: 1
-           Leaving the Scene of Accident: 3
-                     Tamper With Witness: 1
-              Possess Cannabis 1000FTSch: 1
-               Consume Alcoholic Bev Pub: 1
-               Possession Of Amphetamine: 2
-             Uttering Forged Credit Card: 1
-           Crimin Mischief Damage $1000+: 4
-            Misuse Of 911 Or E911 System: 1
-                       Poss F/Arm Delinq: 2
-            Criminal Mischief>$200<$1000: 4
-              Dealing in Stolen Property: 3
-           Unemployment Compensatn Fraud: 1
-          Poss Similitude of Drivers Lic: 1
-          Present Proof of Invalid Insur: 1
-           Principal In The First Degree: 1
-          Possess w/I/Utter Forged Bills: 1
-            False Info LEO During Invest: 1
-                   Threat Public Servant: 1
-          Criminal Attempt 3rd Deg Felon: 1
-           Possess Weapon On School Prop: 1
-                Unlicensed Telemarketing: 1
-               Arson in the First Degree: 2
-          Possession Firearm School Prop: 1
-           Poss Oxycodone W/Int/Sell/Del: 1
-            Aggravated Battery (Firearm): 2
-          Sale/Del Cannabis At/Near Scho: 2
-                          False 911 Call: 1
-                  Corrupt Public Servant: 2
-                    Computer Pornography: 1
-                           DUI- Enhanced: 1
-               Purchase/P/W/Int Cannabis: 1
-              Deliver Cannabis 1000FTSch: 1
-             Unlawful Conveyance of Fuel: 1
-           Fail Register Career Offender: 1
-                 Solicit Deliver Cocaine: 1
-              Dealing In Stolen Property: 1
-          Lewd or Lascivious Molestation: 2
-          Kidnapping / Domestic Violence: 1
-                           Sell Cannabis: 1
-         Compulsory Attendance Violation: 1
-            Possess Controlled Substance: 1
-           Unlawful Use Of Police Badges: 1
-          Manage Busn W/O City Occup Lic: 1
-             Deliver Cocaine 1000FT Park: 1
-         Alcoholic Beverage Violation-FL: 1
+          felony driving while lic suspd: 36
+            burglary unoccupied dwelling: 38
+                      aggravated battery: 13
+                possession of alprazolam: 8
+            aggravated assault w/firearm: 7
+           fraudulent use of credit card: 2
+           cash item w/intent to defraud: 1
+          false ownership info/pawn item: 2
+            susp drivers lic 1st offense: 24
+                   fail register vehicle: 5
+           trespassing/construction site: 2
+                        reckless driving: 2
+          consp traff oxycodone 28g><30k: 1
+                      felony petit theft: 16
+          burglary dwelling assault/batt: 9
+                 agg fleeing and eluding: 2
+          drivg while lic suspd/revk/can: 3
+                      disorderly conduct: 6
+                     robbery / no weapon: 10
+                     grand theft firearm: 4
+          failure to pay taxi cab charge: 1
+          dui level 0.15 or minor in veh: 7
+                 poss 3,4 mdma (ecstasy): 2
+          use scanning device to defraud: 1
+           tamper with witness/victim/ci: 5
+violation of injunction order/stalking/cyberstalking: 1
+             fail to obey police officer: 2
+                 obstruct fire equipment: 2
+               unauth poss id card or dl: 3
+                             child abuse: 2
+               attempted robbery firearm: 1
+                     fail to secure load: 1
+             driving under the influence: 15
+           fel drive license perm revoke: 1
+                        deliver cannabis: 7
+                    manufacture cannabis: 2
+               resist officer w/violence: 16
+             simulation of legal process: 1
+                             petit theft: 11
+                fleeing or eluding a leo: 2
+            viol prot injunc repeat viol: 7
+                fighting/baiting animals: 1
+                 disorderly intoxication: 4
+                         deliver cocaine: 13
+          depriv leo of protect/communic: 1
+           robbery sudd snatch no weapon: 6
+           trespass structure/conveyance: 2
+          sale/del counterfeit cont subs: 1
+             operating w/o valid license: 13
+          introduce contraband into jail: 4
+          posses/disply susp/revk/frd dl: 2
+            dui blood alcohol above 0.20: 3
+               burglary conveyance armed: 4
+                       robbery w/firearm: 5
+          felony battery w/prior convict: 20
+                      false imprisonment: 7
+          poss unlaw issue driver licenc: 3
+                          felony battery: 6
+           retail theft $300 1st offense: 1
+             gambling/gamb paraphernalia: 1
+            neglect/abuse elderly person: 1
+            poss of controlled substance: 6
+              leaving acc/unattended veh: 2
+               carjacking with a firearm: 1
+              dui property damage/injury: 9
+                     culpable negligence: 1
+          exploit elderly person 20-100k: 1
+              poss of methylethcathinone: 3
+            prostitution/lewdness/assign: 1
+             neglect child / bodily harm: 2
+          possession of benzylpiperazine: 2
+           burglary with assault/battery: 5
+       prostitution/lewd act assignation: 3
+              grand theft dwell property: 1
+               att burgl unoccupied dwel: 6
+            ride tri-rail without paying: 1
+              disrupting school function: 1
+                   strong armed  robbery: 1
+          poss trifluoromethylphenylpipe: 1
+          felony batt(great bodily harm): 5
+             carry open/uncov bev in pub: 1
+          fleeing or attmp eluding a leo: 3
+                      aggravated assault: 2
+          att tamper w/physical evidence: 1
+             refuse to supply dna sample: 1
+           poss drugs w/o a prescription: 1
+           grand theft in the 1st degree: 1
+          leave accd/attend veh/less $50: 1
+     poss of cocaine w/i/d/s 1000ft park: 5
+             lewd act presence child 16-: 1
+             soliciting for prostitution: 1
+              poss tetrahydrocannabinols: 1
+          aggrav stalking after injunctn: 4
+              possess drug paraphernalia: 2
+               attempt burglary (struct): 1
+                 burglary dwelling armed: 2
+               deliver 3,4 methylenediox: 3
+          violation license restrictions: 1
+                   stalking (aggravated): 3
+           throw deadly missile into veh: 1
+             battery on a person over 65: 3
+          felon in pos of firearm or amm: 1
+            poss anti-shoplifting device: 2
+          neglect child / no bodily harm: 7
+          viol injunct domestic violence: 5
+                 open carrying of weapon: 1
+           hiring with intent to defraud: 1
+             carrying a concealed weapon: 1
+            solicitation on felony 3 deg: 1
+sell or offer for sale counterfeit goods: 2
+          agg assault w/int com fel dome: 3
+           possession of methamphetamine: 3
+         burglary structure assault/batt: 1
+                 possession of oxycodone: 5
+                 shoot in occupied dwell: 1
+          criminal mischief damage <$200: 3
+          viol pretrial release dom viol: 3
+           leave acc/attend veh/more $50: 2
+          false motor veh insurance card: 1
+                dwls susp/cancel revoked: 1
+            deliver cocaine 1000ft store: 1
+                   uttering forged bills: 3
+          poss of firearm by convic felo: 1
+            carjacking w/o deadly weapon: 1
+          aggrav child abuse-causes harm: 1
+              burglary dwelling occupied: 7
+                  petit theft $100- $300: 3
+                   possession of codeine: 2
+                    cruelty toward child: 5
+             exposes culpable negligence: 6
+          traffick amphetamine 28g><200g: 1
+       contribute delinquency of a minor: 1
+            oper motorcycle w/o valid dl: 1
+        poss/sell/del cocaine 1000ft sch: 1
+              murder in the first degree: 1
+               possession of hydrocodone: 2
+             unlaw lictag/sticker attach: 4
+          possession of 3,4methylenediox: 1
+          viol injunction protect dom vi: 1
+          offn against intellectual prop: 1
+            interfere w/traf cont dev rr: 1
+                       purchase cannabis: 3
+    tresspass in structure or conveyance: 2
+                    possession of heroin: 1
+          att burgl struc/conv dwel/occp: 1
+                    murder in 2nd degree: 1
+          forging bank bills/promis note: 2
+                     poss wep conv felon: 2
+             tresspass struct/conveyance: 1
+         failure to return hired vehicle: 3
+          dwi w/inj susp lic / habit off: 1
+          poss contr subst w/o prescript: 3
+          del 3,4 methylenedioxymethcath: 1
+           lease for purpose trafficking: 1
+                   poss of rx without rx: 1
+          aggrav child abuse-agg battery: 3
+                          dui - enhanced: 3
+            dwls canceled disqul 1st off: 1
+               bribery athletic contests: 1
+           grand theft on 65 yr or older: 2
+          felony/driving under influence: 2
+          unauth c/p/s sounds>1000/audio: 1
+            lve/scen/acc/veh/prop/damage: 1
+           cause anoth phone ring repeat: 1
+           leaving the scene of accident: 3
+                     tamper with witness: 1
+              possess cannabis 1000ftsch: 1
+               consume alcoholic bev pub: 1
+               possession of amphetamine: 2
+             uttering forged credit card: 1
+           crimin mischief damage $1000+: 4
+            misuse of 911 or e911 system: 1
+                       poss f/arm delinq: 2
+            criminal mischief>$200<$1000: 4
+              dealing in stolen property: 4
+           unemployment compensatn fraud: 1
+          poss similitude of drivers lic: 1
+          present proof of invalid insur: 1
+           principal in the first degree: 1
+          possess w/i/utter forged bills: 1
+            false info leo during invest: 1
+                   threat public servant: 1
+          criminal attempt 3rd deg felon: 1
+           possess weapon on school prop: 1
+                unlicensed telemarketing: 1
+               arson in the first degree: 2
+          possession firearm school prop: 1
+           poss oxycodone w/int/sell/del: 1
+            aggravated battery (firearm): 2
+          sale/del cannabis at/near scho: 2
+                          false 911 call: 1
+                  corrupt public servant: 2
+                    computer pornography: 1
+                           dui- enhanced: 1
+               purchase/p/w/int cannabis: 1
+              deliver cannabis 1000ftsch: 1
+             unlawful conveyance of fuel: 1
+           fail register career offender: 1
+                 solicit deliver cocaine: 1
+          lewd or lascivious molestation: 2
+          kidnapping / domestic violence: 1
+                           sell cannabis: 1
+         compulsory attendance violation: 1
+            possess controlled substance: 1
+           unlawful use of police badges: 1
+          manage busn w/o city occup lic: 1
+             deliver cocaine 1000ft park: 1
+         alcoholic beverage violation-fl: 1
 
-Race: Caucasian
-                         Insurance Fraud: 1
-                 Poss 3,4 MDMA (Ecstasy): 2
-                                 Battery: 344
-           Driving While License Revoked: 26
-          Introduce Contraband Into Jail: 2
-            Susp Drivers Lic 1st Offense: 16
+Race: caucasian
+                         insurance fraud: 1
+                 poss 3,4 mdma (ecstasy): 2
+                                 battery: 344
+           driving while license revoked: 26
+          introduce contraband into jail: 2
+            susp drivers lic 1st offense: 16
                    arrest case no charge: 229
-             Operating W/O Valid License: 5
-       Possess Cannabis/20 Grams Or Less: 17
-          DUI Level 0.15 Or Minor In Veh: 26
-           Grand Theft in the 3rd Degree: 74
-          Burglary Dwelling Assault/Batt: 7
-           Pos Cannabis W/Intent Sel/Del: 19
-          Poss3,4 Methylenedioxymethcath: 16
-          Flee/Elude LEO-Agg Flee Unsafe: 1
-          Aggravated Assault W/Dead Weap: 12
-           Possession Of Methamphetamine: 12
-                  Possession of Morphine: 2
-                   Possession of Cocaine: 106
-            Aggravated Assault w/Firearm: 7
-            Resist/Obstruct W/O Violence: 7
-                Possession Of Alprazolam: 18
-                 Agg Fleeing and Eluding: 2
-             Fail To Obey Police Officer: 1
+             operating w/o valid license: 5
+       possess cannabis/20 grams or less: 17
+          dui level 0.15 or minor in veh: 26
+           grand theft in the 3rd degree: 74
+          burglary dwelling assault/batt: 7
+           pos cannabis w/intent sel/del: 19
+          poss3,4 methylenedioxymethcath: 16
+          flee/elude leo-agg flee unsafe: 1
+          aggravated assault w/dead weap: 21
+           possession of methamphetamine: 12
+                  possession of morphine: 2
+                   possession of cocaine: 106
+            aggravated assault w/firearm: 7
+            resist/obstruct w/o violence: 7
+                possession of alprazolam: 18
+                 agg fleeing and eluding: 2
+             fail to obey police officer: 1
                                      nan: 5
-            Crim Use of Personal ID Info: 7
-               Deliver 3,4 Methylenediox: 5
-          Lewd or Lascivious Molestation: 5
-           Sexual Performance by a Child: 1
-              Leaving Acc/Unattended Veh: 6
-              Trespass Struct/Conveyance: 1
-             Driving Under The Influence: 71
-           Burglary With Assault/battery: 2
-                       Criminal Mischief: 3
-          Felony Driving While Lic Suspd: 9
-                      False Imprisonment: 7
-          Agg Fleeing/Eluding High Speed: 1
-           Battery on Law Enforc Officer: 13
-          Battery On Parking Enfor Speci: 1
-          Viol Injunct Domestic Violence: 17
-          Forging Bank Bills/Promis Note: 1
-          Aggravated Assault W/dead Weap: 9
-                 Disorderly Intoxication: 7
-                      Felony Petit Theft: 4
-               Resist Officer w/Violence: 17
-           Leaving the Scene of Accident: 4
-              DUI Property Damage/Injury: 51
-           Crimin Mischief Damage $1000+: 3
-                Fleeing or Eluding a LEO: 3
-           Aggravated Battery / Pregnant: 7
-                Agg Battery Grt/Bod/Harm: 11
-                    Felony DUI (level 3): 5
-             Felony Battery (Dom Strang): 23
-          Drivg While Lic Suspd/Revk/Can: 1
-          Poss Contr Subst W/o Prescript: 6
-                                 Assault: 10
-          Leave Accd/Attend Veh/Less $50: 1
-                  Possession of Cannabis: 20
-          Sexual Battery / Vict 12 Yrs +: 1
-          Neglect Child / No Bodily Harm: 5
-            Burglary Unoccupied Dwelling: 11
-                      Deliver Alprazolam: 1
-                    Manufacture Cannabis: 6
-             Battery on a Person Over 65: 8
-                          Felony Battery: 3
-                      Disorderly Conduct: 11
-           Leave Acc/Attend Veh/More $50: 5
-             Grand Theft (Motor Vehicle): 18
-             Burglary Conveyance Unoccup: 10
-           Tamper With Witness/Victim/CI: 6
-              Burglary Dwelling Occupied: 6
-                             Child Abuse: 5
-            Possession Child Pornography: 2
-            Lve/Scen/Acc/Veh/Prop/Damage: 7
-         Money Launder 100K or More Dols: 1
-           Opert With Susp DL 2nd Offens: 1
-          Criminal Mischief Damage <$200: 4
-          Viol Pretrial Release Dom Viol: 3
-             Possession of Hydromorphone: 7
-                        Theft/To Deprive: 1
-               Driving License Suspended: 14
-           Intoxicated/Safety Of Another: 1
-        Del of JWH-250 2-Methox 1-Pentyl: 1
-                Purchasing Of Alprazolam: 1
-                 Possession Of Lorazepam: 1
-          Battery Emergency Care Provide: 1
-                          DUI - Enhanced: 8
-            Criminal Mischief>$200<$1000: 3
-   DUI - Property Damage/Personal Injury: 1
-             Possession Of Buprenorphine: 1
-             Tresspass Struct/Conveyance: 2
-          Poss Alprazolam W/int Sell/Del: 1
-         Offer Agree Secure For Lewd Act: 1
-             Exposes Culpable Negligence: 2
-           Grand Theft in the 1st Degree: 1
-                    Cruelty Toward Child: 4
-          Aggrav Battery w/Deadly Weapon: 19
-          Felony Battery w/Prior Convict: 8
-          Sex Offender Fail Comply W/Law: 1
-           Poss Pyrrolidinovalerophenone: 2
-            Uttering a Forged Instrument: 7
-               Possession of Hydrocodone: 5
-                             Petit Theft: 7
-          Counterfeit Lic Plates/Sticker: 1
-          Sale/Del Cannabis At/Near Scho: 1
-          Poss of Firearm by Convic Felo: 1
-            Attempted Robbery  No Weapon: 1
-                   Stalking (Aggravated): 3
-          Aggravated Assault W/o Firearm: 1
-           Fel Drive License Perm Revoke: 2
-                    Possession Of Heroin: 11
-         Refuse Submit Blood/Breath Test: 1
-                      Aggravated Battery: 5
-              Crim Attempt/Solicit/Consp: 1
-          DWI w/Inj Susp Lic / Habit Off: 1
-                           DUI- Enhanced: 3
-                  Petit Theft $100- $300: 2
-              Burglary Structure Unoccup: 7
-            DUI Blood Alcohol Above 0.20: 2
-                     Robbery / No Weapon: 2
-           Expired DL More Than 6 Months: 3
-          Lewd/Lasc Battery Pers 12+/<16: 1
-                 Robbery W/Deadly Weapon: 1
-            D.U.I. Serious Bodily Injury: 1
-          Use Of 2 Way Device To Fac Fel: 1
-                 Solicit Deliver Cocaine: 2
-                 Possession of Oxycodone: 10
-                        Robbery / Weapon: 1
-          Fleeing Or Attmp Eluding A Leo: 4
-          Video Voyeur-<24Y on Child >16: 1
-       Prostitution/Lewd Act Assignation: 2
-            Unl/Disturb Education/Instui: 1
-           Violation Of Boater Safety Id: 1
-          Aggravated Battery On 65/Older: 1
-          Possess/Use Weapon 1 Deg Felon: 1
-         Fail Obey Driv Lic Restrictions: 1
-          Use of Anti-Shoplifting Device: 2
-          False Ownership Info/Pawn Item: 5
-                      Tamper With Victim: 1
-                Abuse Without Great Harm: 2
-          Compulsory Sch Attnd Violation: 1
-                 Battery On Fire Fighter: 1
-          Traffick Hydrocodone   4g><14g: 1
-          Felony/Driving Under Influence: 2
-               Del Morphine at/near Park: 1
-                      Prowling/Loitering: 1
-        Possess Tobacco Product Under 18: 1
-                                  Escape: 1
-          Viol Injunction Protect Dom Vi: 2
-          Use Computer for Child Exploit: 1
-          Murder In 2nd Degree W/firearm: 1
-            Viol Prot Injunc Repeat Viol: 3
-          Felony Committing Prostitution: 1
-          Aggrav Stalking After Injunctn: 1
-               Possession Of Phentermine: 1
-                        Reckless Driving: 2
-              Dealing in Stolen Property: 3
-            Poss Of Controlled Substance: 2
-       Obtain Control Substance By Fraud: 2
-                 Tampering with a Victim: 1
-              Solicit To Deliver Cocaine: 1
-              Carrying Concealed Firearm: 3
-           Retail Theft $300 1st Offense: 1
-          Traffick Oxycodone     4g><14g: 1
-           Robbery Sudd Snatch No Weapon: 2
-                 DOC/Cause Public Danger: 2
-            Fail Sex Offend Report Bylaw: 1
-           Grand Theft of the 2nd Degree: 1
-                  Corrupt Public Servant: 3
-               Att Burgl Unoccupied Dwel: 2
-               Burglary Conveyance Armed: 1
-           Poss Drugs W/O A Prescription: 1
-               Possession Of Amphetamine: 3
-          Opert With Susp DL 2ND Offense: 1
-        Tampering With Physical Evidence: 3
-          Burglary Assault/Battery Armed: 2
-          Felony Batt(Great Bodily Harm): 2
-                      Cruelty to Animals: 1
-                       Possession of LSD: 2
-           Harm Public Servant Or Family: 1
-          Consp Traff Oxycodone  4g><14g: 1
-                     Poss Unlaw Issue Id: 1
-                        Deliver Cannabis: 3
-                       Poss F/Arm Delinq: 1
-            Battery Spouse Or Girlfriend: 1
-                                   Theft: 1
-                         Deliver Cocaine: 1
-               Possession Burglary Tools: 3
-                            Prostitution: 1
-                       Purchase Cannabis: 1
-                     Culpable Negligence: 1
-                  Possession Of Fentanyl: 1
-          Del Cannabis For Consideration: 2
-             Possession Of Paraphernalia: 1
-           Trespassing/Construction Site: 1
-            Fraud Obtain Food or Lodging: 1
-           Falsely Impersonating Officer: 1
-             Carry Open/Uncov Bev In Pub: 1
-          Poss of Vessel w/Altered ID NO: 1
-                   Felony DUI - Enhanced: 1
-         Burglary Conveyance Assault/Bat: 2
-           Fraudulent Use of Credit Card: 1
-                Unlicensed Telemarketing: 1
-          Depriv LEO of Protect/Communic: 1
-                Fighting/Baiting Animals: 1
-            Aggress/Panhandle/Beg/Solict: 1
-          Poss Cocaine/Intent To Del/Sel: 1
-                     Poss Wep Conv Felon: 1
-            Solicitation On Felony 3 Deg: 1
-          Lewd/Lasc Exhib Presence <16yr: 1
-          Poss Meth/Diox/Meth/Amp (MDMA): 1
-             Offer Agree Secure/Lewd Act: 1
-                 Burglary Dwelling Armed: 1
-          Sel Etc/Pos/w/Int Contrft Schd: 1
-          Possession Of Anabolic Steroid: 1
-             Unlaw LicTag/Sticker Attach: 1
-                      Aggravated Assault: 1
-               Unauth Poss ID Card or DL: 2
-             Burglary Structure Occupied: 1
-                     Tamper With Witness: 1
+            crim use of personal id info: 7
+               deliver 3,4 methylenediox: 5
+          lewd or lascivious molestation: 5
+           sexual performance by a child: 1
+              leaving acc/unattended veh: 6
+              trespass struct/conveyance: 1
+             driving under the influence: 71
+           burglary with assault/battery: 2
+                       criminal mischief: 3
+          felony driving while lic suspd: 9
+                      false imprisonment: 7
+          agg fleeing/eluding high speed: 1
+           battery on law enforc officer: 13
+          battery on parking enfor speci: 1
+          viol injunct domestic violence: 17
+          forging bank bills/promis note: 1
+                 disorderly intoxication: 7
+                      felony petit theft: 4
+               resist officer w/violence: 17
+           leaving the scene of accident: 4
+              dui property damage/injury: 51
+           crimin mischief damage $1000+: 3
+                fleeing or eluding a leo: 3
+           aggravated battery / pregnant: 7
+                agg battery grt/bod/harm: 11
+                    felony dui (level 3): 5
+             felony battery (dom strang): 23
+          drivg while lic suspd/revk/can: 1
+          poss contr subst w/o prescript: 6
+                                 assault: 10
+          leave accd/attend veh/less $50: 1
+                  possession of cannabis: 20
+          sexual battery / vict 12 yrs +: 1
+          neglect child / no bodily harm: 5
+            burglary unoccupied dwelling: 11
+                      deliver alprazolam: 1
+                    manufacture cannabis: 6
+             battery on a person over 65: 8
+                          felony battery: 3
+                      disorderly conduct: 11
+           leave acc/attend veh/more $50: 5
+             grand theft (motor vehicle): 18
+             burglary conveyance unoccup: 10
+           tamper with witness/victim/ci: 6
+              burglary dwelling occupied: 6
+                             child abuse: 5
+            possession child pornography: 2
+            lve/scen/acc/veh/prop/damage: 7
+         money launder 100k or more dols: 1
+           opert with susp dl 2nd offens: 1
+          criminal mischief damage <$200: 4
+          viol pretrial release dom viol: 3
+             possession of hydromorphone: 7
+                        theft/to deprive: 1
+               driving license suspended: 14
+           intoxicated/safety of another: 1
+        del of jwh-250 2-methox 1-pentyl: 1
+                purchasing of alprazolam: 1
+                 possession of lorazepam: 1
+          battery emergency care provide: 1
+                          dui - enhanced: 8
+            criminal mischief>$200<$1000: 3
+   dui - property damage/personal injury: 1
+             possession of buprenorphine: 1
+             tresspass struct/conveyance: 2
+          poss alprazolam w/int sell/del: 1
+         offer agree secure for lewd act: 1
+             exposes culpable negligence: 2
+           grand theft in the 1st degree: 1
+                    cruelty toward child: 4
+          aggrav battery w/deadly weapon: 19
+          felony battery w/prior convict: 8
+          sex offender fail comply w/law: 1
+           poss pyrrolidinovalerophenone: 2
+            uttering a forged instrument: 7
+               possession of hydrocodone: 5
+                             petit theft: 7
+          counterfeit lic plates/sticker: 1
+          sale/del cannabis at/near scho: 1
+          poss of firearm by convic felo: 1
+            attempted robbery  no weapon: 1
+                   stalking (aggravated): 3
+          aggravated assault w/o firearm: 1
+           fel drive license perm revoke: 2
+                    possession of heroin: 11
+         refuse submit blood/breath test: 1
+                      aggravated battery: 5
+              crim attempt/solicit/consp: 1
+          dwi w/inj susp lic / habit off: 1
+                           dui- enhanced: 3
+                  petit theft $100- $300: 2
+              burglary structure unoccup: 7
+            dui blood alcohol above 0.20: 2
+                     robbery / no weapon: 2
+           expired dl more than 6 months: 3
+          lewd/lasc battery pers 12+/<16: 1
+                 robbery w/deadly weapon: 1
+            d.u.i. serious bodily injury: 1
+          use of 2 way device to fac fel: 1
+                 solicit deliver cocaine: 2
+                 possession of oxycodone: 10
+                        robbery / weapon: 1
+          fleeing or attmp eluding a leo: 4
+          video voyeur-<24y on child >16: 1
+       prostitution/lewd act assignation: 2
+            unl/disturb education/instui: 1
+           violation of boater safety id: 1
+          aggravated battery on 65/older: 1
+          possess/use weapon 1 deg felon: 1
+         fail obey driv lic restrictions: 1
+          use of anti-shoplifting device: 2
+          false ownership info/pawn item: 5
+                      tamper with victim: 1
+                abuse without great harm: 2
+          compulsory sch attnd violation: 1
+                 battery on fire fighter: 1
+          traffick hydrocodone   4g><14g: 1
+          felony/driving under influence: 2
+               del morphine at/near park: 1
+                      prowling/loitering: 1
+        possess tobacco product under 18: 1
+                                  escape: 1
+          viol injunction protect dom vi: 2
+          use computer for child exploit: 1
+          murder in 2nd degree w/firearm: 1
+            viol prot injunc repeat viol: 3
+          felony committing prostitution: 1
+          aggrav stalking after injunctn: 1
+               possession of phentermine: 1
+                        reckless driving: 2
+              dealing in stolen property: 3
+            poss of controlled substance: 2
+       obtain control substance by fraud: 2
+                 tampering with a victim: 1
+              solicit to deliver cocaine: 1
+              carrying concealed firearm: 3
+           retail theft $300 1st offense: 1
+          traffick oxycodone     4g><14g: 1
+           robbery sudd snatch no weapon: 2
+                 doc/cause public danger: 2
+            fail sex offend report bylaw: 1
+           grand theft of the 2nd degree: 1
+                  corrupt public servant: 3
+               att burgl unoccupied dwel: 2
+               burglary conveyance armed: 1
+           poss drugs w/o a prescription: 1
+               possession of amphetamine: 3
+          opert with susp dl 2nd offense: 1
+        tampering with physical evidence: 3
+          burglary assault/battery armed: 2
+          felony batt(great bodily harm): 2
+                      cruelty to animals: 1
+                       possession of lsd: 2
+           harm public servant or family: 1
+          consp traff oxycodone  4g><14g: 1
+                     poss unlaw issue id: 1
+                        deliver cannabis: 3
+                       poss f/arm delinq: 1
+            battery spouse or girlfriend: 1
+                                   theft: 1
+                         deliver cocaine: 1
+               possession burglary tools: 3
+                            prostitution: 1
+                       purchase cannabis: 1
+                     culpable negligence: 1
+                  possession of fentanyl: 1
+          del cannabis for consideration: 2
+             possession of paraphernalia: 1
+           trespassing/construction site: 1
+            fraud obtain food or lodging: 1
+           falsely impersonating officer: 1
+             carry open/uncov bev in pub: 1
+          poss of vessel w/altered id no: 1
+                   felony dui - enhanced: 1
+         burglary conveyance assault/bat: 2
+           fraudulent use of credit card: 1
+                unlicensed telemarketing: 1
+          depriv leo of protect/communic: 1
+                fighting/baiting animals: 1
+            aggress/panhandle/beg/solict: 1
+          poss cocaine/intent to del/sel: 1
+                     poss wep conv felon: 1
+            solicitation on felony 3 deg: 1
+          lewd/lasc exhib presence <16yr: 1
+          poss meth/diox/meth/amp (mdma): 1
+             offer agree secure/lewd act: 1
+                 burglary dwelling armed: 1
+          sel etc/pos/w/int contrft schd: 1
+          possession of anabolic steroid: 1
+             unlaw lictag/sticker attach: 1
+                      aggravated assault: 1
+               unauth poss id card or dl: 2
+             burglary structure occupied: 1
+                     tamper with witness: 1
 
-Race: Hispanic
+Race: hispanic
                    arrest case no charge: 65
-       Possess Cannabis/20 Grams Or Less: 10
-             Unlaw LicTag/Sticker Attach: 1
-                   Possession of Cocaine: 13
-              Burglary Structure Unoccup: 7
-                                 Battery: 86
-           Battery on Law Enforc Officer: 4
-           Grand Theft in the 3rd Degree: 25
-          Poss3,4 Methylenedioxymethcath: 6
-           Leave Acc/Attend Veh/More $50: 3
-            Burglary Unoccupied Dwelling: 2
-                    Possession Of Heroin: 3
-           Driving While License Revoked: 10
-              DUI Property Damage/Injury: 5
-                  Possession of Cannabis: 6
-             Burglary Conveyance Unoccup: 7
-             Operating W/O Valid License: 12
-                                 Assault: 2
-          Felony/Driving Under Influence: 1
-             Exposes Culpable Negligence: 2
-                 Poss 3,4 MDMA (Ecstasy): 2
-               Possession Burglary Tools: 3
-             Driving Under The Influence: 15
-                       False Bomb Report: 1
-           Unemployment Compensatn Fraud: 1
-                      Aggravated Assault: 1
-             Possession of Hydromorphone: 2
-                  Petit Theft $100- $300: 3
-           Expired DL More Than 6 Months: 1
-             Felony Battery (Dom Strang): 9
-                          DUI - Enhanced: 3
-          Sex Offender Fail Comply W/Law: 1
+       possess cannabis/20 grams or less: 10
+             unlaw lictag/sticker attach: 1
+                   possession of cocaine: 13
+              burglary structure unoccup: 7
+                                 battery: 86
+           battery on law enforc officer: 4
+           grand theft in the 3rd degree: 25
+          poss3,4 methylenedioxymethcath: 6
+           leave acc/attend veh/more $50: 3
+            burglary unoccupied dwelling: 2
+                    possession of heroin: 3
+           driving while license revoked: 10
+              dui property damage/injury: 5
+                  possession of cannabis: 6
+             burglary conveyance unoccup: 7
+             operating w/o valid license: 12
+                                 assault: 2
+          felony/driving under influence: 1
+             exposes culpable negligence: 2
+                 poss 3,4 mdma (ecstasy): 2
+               possession burglary tools: 3
+             driving under the influence: 15
+                       false bomb report: 1
+           unemployment compensatn fraud: 1
+                      aggravated assault: 1
+             possession of hydromorphone: 2
+                  petit theft $100- $300: 3
+           expired dl more than 6 months: 1
+             felony battery (dom strang): 9
+                          dui - enhanced: 3
+          sex offender fail comply w/law: 1
                                      nan: 4
-           Sex Battery Deft 18+/Vict 11-: 1
-               License Suspended Revoked: 1
-               Unauth Poss ID Card or DL: 1
-              Possess Drug Paraphernalia: 2
-          DUI Level 0.15 Or Minor In Veh: 8
-          Felony Battery w/Prior Convict: 2
-            Uttering a Forged Instrument: 6
-                 Solic to Commit Battery: 1
-                Possession Of Alprazolam: 2
-          Aggravated Assault W/dead Weap: 3
-               Deliver 3,4 Methylenediox: 1
-                        Reckless Driving: 3
-               Driving License Suspended: 6
-                      Aggravated Battery: 1
-            Viol Prot Injunc Repeat Viol: 2
-          Agg Assault Law Enforc Officer: 1
-           Crimin Mischief Damage $1000+: 3
-             Grand Theft (Motor Vehicle): 2
-           Tamper With Witness/Victim/CI: 3
-          Live on Earnings of Prostitute: 1
-          Sel/Pur/Mfr/Del Control Substa: 1
-                      Disorderly Conduct: 4
-                  Extradition/Defendants: 2
-          Aggrav Battery w/Deadly Weapon: 5
-          Aggravated Assault W/Dead Weap: 3
-                 Solicit Deliver Cocaine: 1
-          Poss Contr Subst W/o Prescript: 1
-                      False Imprisonment: 2
-                   Stalking (Aggravated): 1
-          Agg Fleeing/Eluding High Speed: 1
-           Aggravated Battery / Pregnant: 4
-          Lewd/Lasc Battery Pers 12+/<16: 3
-          Throw Missile Into Pub/Priv Dw: 1
-              Leaving Acc/Unattended Veh: 1
-            Solicitation On Felony 3 Deg: 1
-                      Felony Petit Theft: 2
-       Contribute Delinquency Of A Minor: 1
-        Tampering With Physical Evidence: 1
-                 Disorderly Intoxication: 2
-            Burglary Conveyance Occupied: 2
-             Battery on a Person Over 65: 1
-          Poss Cocaine/Intent To Del/Sel: 1
-           Pos Cannabis W/Intent Sel/Del: 1
-           Fel Drive License Perm Revoke: 1
-          DUI/Property Damage/Persnl Inj: 1
-          Agg Assault W/int Com Fel Dome: 1
-          Traffick Oxycodone     4g><14g: 1
-          Viol Pretrial Release Dom Viol: 1
-          Felony Driving While Lic Suspd: 3
-               Resist Officer w/Violence: 1
-                Agg Battery Grt/Bod/Harm: 4
-          Viol Injunct Domestic Violence: 2
-              Carrying Concealed Firearm: 1
-           Leaving the Scene of Accident: 1
-          Kidnapping / Domestic Violence: 1
-                 Agg Fleeing and Eluding: 1
-          Lewd or Lascivious Molestation: 2
-          Aggravated Battery On 65/Older: 1
-            Aggravated Assault w/Firearm: 1
-                           DUI- Enhanced: 1
-            Lve/Scen/Acc/Veh/Prop/Damage: 1
-           Burglary With Assault/battery: 1
-          Violation License Restrictions: 1
-                 Possession of Oxycodone: 1
-          Aggravated Assault W/o Firearm: 1
-          Neglect Child / No Bodily Harm: 1
-           Conspiracy to Deliver Cocaine: 1
-               Possession Of Amphetamine: 1
-          Poss Similitude of Drivers Lic: 1
-                         Deliver Cocaine: 1
-       Prostitution/Lewd Act Assignation: 2
-           Opert With Susp DL 2nd Offens: 1
-           Grand Theft in the 1st Degree: 1
-              Burglary Dwelling Occupied: 1
-          Viol Injunction Protect Dom Vi: 1
-                             Petit Theft: 1
-             Uttering Forged Credit Card: 1
-               Possession of Hydrocodone: 1
-            Susp Drivers Lic 1st Offense: 1
-            Crim Use of Personal ID Info: 1
-          Criminal Mischief Damage <$200: 1
-                     Purchase Of Cocaine: 1
-               Burglary Conveyance Armed: 1
-           Robbery Sudd Snatch No Weapon: 1
+           sex battery deft 18+/vict 11-: 1
+               license suspended revoked: 1
+               unauth poss id card or dl: 1
+              possess drug paraphernalia: 2
+          dui level 0.15 or minor in veh: 8
+          felony battery w/prior convict: 2
+            uttering a forged instrument: 6
+                 solic to commit battery: 1
+                possession of alprazolam: 2
+          aggravated assault w/dead weap: 6
+               deliver 3,4 methylenediox: 1
+                        reckless driving: 3
+               driving license suspended: 6
+                      aggravated battery: 1
+            viol prot injunc repeat viol: 2
+          agg assault law enforc officer: 1
+           crimin mischief damage $1000+: 3
+             grand theft (motor vehicle): 2
+           tamper with witness/victim/ci: 3
+          live on earnings of prostitute: 1
+          sel/pur/mfr/del control substa: 1
+                      disorderly conduct: 4
+                  extradition/defendants: 2
+          aggrav battery w/deadly weapon: 5
+                 solicit deliver cocaine: 1
+          poss contr subst w/o prescript: 1
+                      false imprisonment: 2
+                   stalking (aggravated): 1
+          agg fleeing/eluding high speed: 1
+           aggravated battery / pregnant: 4
+          lewd/lasc battery pers 12+/<16: 3
+          throw missile into pub/priv dw: 1
+              leaving acc/unattended veh: 1
+            solicitation on felony 3 deg: 1
+                      felony petit theft: 2
+       contribute delinquency of a minor: 1
+        tampering with physical evidence: 1
+                 disorderly intoxication: 2
+            burglary conveyance occupied: 2
+             battery on a person over 65: 1
+          poss cocaine/intent to del/sel: 1
+           pos cannabis w/intent sel/del: 1
+           fel drive license perm revoke: 1
+          dui/property damage/persnl inj: 1
+          agg assault w/int com fel dome: 1
+          traffick oxycodone     4g><14g: 1
+          viol pretrial release dom viol: 1
+          felony driving while lic suspd: 3
+               resist officer w/violence: 1
+                agg battery grt/bod/harm: 4
+          viol injunct domestic violence: 2
+              carrying concealed firearm: 1
+           leaving the scene of accident: 1
+          kidnapping / domestic violence: 1
+                 agg fleeing and eluding: 1
+          lewd or lascivious molestation: 2
+          aggravated battery on 65/older: 1
+            aggravated assault w/firearm: 1
+                           dui- enhanced: 1
+            lve/scen/acc/veh/prop/damage: 1
+           burglary with assault/battery: 1
+          violation license restrictions: 1
+                 possession of oxycodone: 1
+          aggravated assault w/o firearm: 1
+          neglect child / no bodily harm: 1
+           conspiracy to deliver cocaine: 1
+               possession of amphetamine: 1
+          poss similitude of drivers lic: 1
+                         deliver cocaine: 1
+       prostitution/lewd act assignation: 2
+           opert with susp dl 2nd offens: 1
+           grand theft in the 1st degree: 1
+              burglary dwelling occupied: 1
+          viol injunction protect dom vi: 1
+                             petit theft: 1
+             uttering forged credit card: 1
+               possession of hydrocodone: 1
+            susp drivers lic 1st offense: 1
+            crim use of personal id info: 1
+          criminal mischief damage <$200: 1
+                     purchase of cocaine: 1
+               burglary conveyance armed: 1
+           robbery sudd snatch no weapon: 1
 
-Race: Asian
-          Att Tamper w/Physical Evidence: 1
-               Unauth Poss ID Card or DL: 1
-          Aggravated Assault W/Dead Weap: 1
-                                 Battery: 9
-          DUI Level 0.15 Or Minor In Veh: 2
-             Battery on a Person Over 65: 1
-          Delivery Of Drug Paraphernalia: 1
-          Aggravated Assault W/dead Weap: 1
-                      Aggravated Battery: 1
-          Viol Injunct Domestic Violence: 1
-                             Child Abuse: 1
-            Aggravated Assault w/Firearm: 1
+Race: asian
+          att tamper w/physical evidence: 1
+               unauth poss id card or dl: 1
+          aggravated assault w/dead weap: 2
+                                 battery: 9
+          dui level 0.15 or minor in veh: 2
+             battery on a person over 65: 1
+          delivery of drug paraphernalia: 1
+                      aggravated battery: 1
+          viol injunct domestic violence: 1
+                             child abuse: 1
+            aggravated assault w/firearm: 1
                    arrest case no charge: 3
-           Grand Theft in the 3rd Degree: 2
+           grand theft in the 3rd degree: 2
 
-Race: Native American
-         Burglary Conveyance Assault/Bat: 1
-               Driving License Suspended: 1
-          Poss3,4 Methylenedioxymethcath: 1
+Race: native american
+         burglary conveyance assault/bat: 1
+               driving license suspended: 1
+          poss3,4 methylenedioxymethcath: 1
                    arrest case no charge: 2
-                   Possession of Cocaine: 2
-         Aggr Child Abuse-Torture,Punish: 1
-                      Aggravated Battery: 1
-                                 Assault: 1
+                   possession of cocaine: 2
+         aggr child abuse-torture,punish: 1
+                      aggravated battery: 1
+                                 assault: 1
 

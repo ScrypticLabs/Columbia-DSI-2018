@@ -1,1210 +1,1196 @@
-Crime: Aggravated Assault w/Firearm
-                               Caucasian: 7
-                        African-American: 7
-                                   Other: 2
-                                Hispanic: 1
-                                   Asian: 1
+Crime: aggravated assault w/firearm
+                               caucasian: 7
+                        african-american: 7
+                                   other: 2
+                                hispanic: 1
+                                   asian: 1
 
-Crime: Felony Battery w/Prior Convict
-                        African-American: 20
-                                Hispanic: 2
-                               Caucasian: 8
+Crime: felony battery w/prior convict
+                        african-american: 20
+                                hispanic: 2
+                               caucasian: 8
 
-Crime: Possession of Cannabis
-                        African-American: 24
-                                Hispanic: 6
-                               Caucasian: 20
-                                   Other: 1
+Crime: possession of cannabis
+                        african-american: 24
+                                hispanic: 6
+                               caucasian: 20
+                                   other: 1
 
 Crime: arrest case no charge
-                                   Other: 38
-                               Caucasian: 229
-                        African-American: 422
-                                Hispanic: 65
-                         Native American: 2
-                                   Asian: 3
+                                   other: 38
+                               caucasian: 229
+                        african-american: 422
+                                hispanic: 65
+                         native american: 2
+                                   asian: 3
 
-Crime: Battery
-                               Caucasian: 345
-                                Hispanic: 87
-                                   Other: 72
-                        African-American: 372
-                                   Asian: 9
+Crime: battery
+                               caucasian: 345
+                                hispanic: 87
+                                   other: 72
+                        african-american: 372
+                                   asian: 9
 
-Crime: Insurance Fraud
+Crime: insurance fraud
 
-Crime: Poss 3,4 MDMA (Ecstasy)
-                                Hispanic: 2
-                        African-American: 2
-                               Caucasian: 1
+Crime: poss 3,4 mdma (ecstasy)
+                                hispanic: 2
+                        african-american: 2
+                               caucasian: 1
 
-Crime: Poss3,4 Methylenedioxymethcath
-                               Caucasian: 16
-                        African-American: 21
-                                Hispanic: 6
-                                   Other: 3
-                         Native American: 1
+Crime: poss3,4 methylenedioxymethcath
+                               caucasian: 16
+                        african-american: 21
+                                hispanic: 6
+                                   other: 3
+                         native american: 1
 
-Crime: Grand Theft in the 3rd Degree
-                                   Other: 22
-                               Caucasian: 74
-                        African-American: 127
-                                Hispanic: 25
-                                   Asian: 2
+Crime: grand theft in the 3rd degree
+                                   other: 22
+                               caucasian: 74
+                        african-american: 129
+                                hispanic: 25
+                                   asian: 2
 
-Crime: Driving While License Revoked
-                        African-American: 64
-                                Hispanic: 10
-                                   Other: 5
-                               Caucasian: 25
+Crime: driving while license revoked
+                        african-american: 64
+                                hispanic: 10
+                                   other: 5
+                               caucasian: 25
 
-Crime: Introduce Contraband Into Jail
-                        African-American: 4
-                               Caucasian: 1
+Crime: introduce contraband into jail
+                        african-american: 4
+                               caucasian: 1
 
-Crime: Susp Drivers Lic 1st Offense
-                        African-American: 24
-                               Caucasian: 15
-                                Hispanic: 1
+Crime: susp drivers lic 1st offense
+                        african-american: 24
+                               caucasian: 15
+                                hispanic: 1
 
-Crime: Carrying Concealed Firearm
-                        African-American: 16
-                                   Other: 3
-                               Caucasian: 3
-                                Hispanic: 1
+Crime: carrying concealed firearm
+                        african-american: 16
+                                   other: 3
+                               caucasian: 3
+                                hispanic: 1
 
-Crime: Tampering With Physical Evidence
-                        African-American: 19
-                                   Other: 2
-                                Hispanic: 1
-                               Caucasian: 3
+Crime: tampering with physical evidence
+                        african-american: 19
+                                   other: 2
+                                hispanic: 1
+                               caucasian: 3
 
-Crime: Operating W/O Valid License
-                                Hispanic: 12
-                               Caucasian: 4
-                        African-American: 13
+Crime: operating w/o valid license
+                                hispanic: 12
+                               caucasian: 4
+                        african-american: 13
 
-Crime: Possess Cannabis/20 Grams Or Less
-                                Hispanic: 10
-                        African-American: 32
-                                   Other: 3
-                               Caucasian: 16
+Crime: possess cannabis/20 grams or less
+                                hispanic: 10
+                        african-american: 32
+                                   other: 3
+                               caucasian: 16
 
-Crime: Unlaw Use False Name/Identity
-                        African-American: 2
+Crime: unlaw use false name/identity
+                        african-american: 2
 
-Crime: Possession of Cocaine
-                                Hispanic: 13
-                               Caucasian: 106
-                        African-American: 116
-                                   Other: 6
-                         Native American: 2
+Crime: possession of cocaine
+                                hispanic: 13
+                               caucasian: 106
+                        african-american: 116
+                                   other: 6
+                         native american: 2
 
-Crime: Uttering a Forged Instrument
-                        African-American: 17
-                                Hispanic: 6
-                               Caucasian: 7
-                                   Other: 2
+Crime: uttering a forged instrument
+                        african-american: 17
+                                hispanic: 6
+                               caucasian: 7
+                                   other: 2
 
-Crime: DUI Level 0.15 Or Minor In Veh
-                               Caucasian: 25
-                        African-American: 7
-                         Native American: 1
-                                Hispanic: 8
-                                   Other: 2
-                                   Asian: 2
+Crime: dui level 0.15 or minor in veh
+                               caucasian: 25
+                        african-american: 7
+                         native american: 1
+                                hispanic: 8
+                                   other: 2
+                                   asian: 2
 
-Crime: Attempt Armed Burglary Dwell
+Crime: attempt armed burglary dwell
 
-Crime: Unlaw LicTag/Sticker Attach
-                        African-American: 4
-                               Caucasian: 1
+Crime: unlaw lictag/sticker attach
+                        african-american: 4
+                               caucasian: 1
 
-Crime: Burglary Structure Unoccup
-                        African-American: 5
-                                   Asian: 1
-                                Hispanic: 6
-                                   Other: 2
-                               Caucasian: 7
+Crime: burglary structure unoccup
+                        african-american: 5
+                                   asian: 1
+                                hispanic: 6
+                                   other: 2
+                               caucasian: 7
 
-Crime: Poss Cocaine/Intent To Del/Sel
-                        African-American: 6
-                                Hispanic: 1
-                               Caucasian: 1
+Crime: poss cocaine/intent to del/sel
+                        african-american: 6
+                                hispanic: 1
+                               caucasian: 1
 
-Crime: Burglary Dwelling Assault/Batt
-                        African-American: 9
-                               Caucasian: 6
-                                   Other: 1
+Crime: burglary dwelling assault/batt
+                        african-american: 9
+                               caucasian: 6
+                                   other: 1
 
-Crime: Felony Battery (Dom Strang)
-                        African-American: 33
-                                   Other: 8
-                               Caucasian: 23
-                                Hispanic: 9
+Crime: felony battery (dom strang)
+                        african-american: 33
+                                   other: 8
+                               caucasian: 23
+                                hispanic: 9
 
-Crime: Pos Cannabis W/Intent Sel/Del
-                        African-American: 30
-                               Caucasian: 18
-                                   Other: 4
-                                Hispanic: 1
+Crime: pos cannabis w/intent sel/del
+                        african-american: 30
+                               caucasian: 18
+                                   other: 4
+                                hispanic: 1
 
-Crime: Flee/Elude LEO-Agg Flee Unsafe
+Crime: flee/elude leo-agg flee unsafe
 
-Crime: Fail To Redeliv Hire/Leas Prop
-                        African-American: 1
+Crime: fail to redeliv hire/leas prop
+                        african-american: 1
 
-Crime: Aggravated Assault W/Dead Weap
-                        African-American: 22
-                                   Other: 3
-                                   Asian: 1
-                                Hispanic: 3
-                               Caucasian: 11
+Crime: aggravated assault w/dead weap
+                        african-american: 43
+                                   other: 6
+                               caucasian: 20
+                                hispanic: 6
+                                   asian: 2
 
-Crime: Possession Of Methamphetamine
-                               Caucasian: 11
-                        African-American: 3
-                                   Other: 1
+Crime: possession of methamphetamine
+                               caucasian: 11
+                        african-american: 3
+                                   other: 1
 
-Crime: Possession of Morphine
-                               Caucasian: 1
+Crime: possession of morphine
+                               caucasian: 1
 
-Crime: Crim Use of Personal ID Info
-                               Caucasian: 7
-                        African-American: 13
-                                   Other: 1
-                                Hispanic: 1
+Crime: crim use of personal id info
+                               caucasian: 7
+                        african-american: 14
+                                   other: 1
+                                hispanic: 1
 
-Crime: Resist/Obstruct W/O Violence
-                        African-American: 18
-                               Caucasian: 6
-                                   Other: 2
+Crime: resist/obstruct w/o violence
+                        african-american: 18
+                               caucasian: 6
+                                   other: 2
 
-Crime: Possession Of Alprazolam
-                        African-American: 8
-                               Caucasian: 17
-                                Hispanic: 2
-                                   Other: 2
+Crime: possession of alprazolam
+                        african-american: 8
+                               caucasian: 17
+                                hispanic: 2
+                                   other: 2
 
-Crime: Agg Fleeing and Eluding
-                        African-American: 2
-                                Hispanic: 1
-                               Caucasian: 1
+Crime: agg fleeing and eluding
+                        african-american: 2
+                                hispanic: 1
+                               caucasian: 1
 
-Crime: Petit Theft
-                        African-American: 11
-                               Caucasian: 7
-                                Hispanic: 1
+Crime: petit theft
+                        african-american: 11
+                               caucasian: 7
+                                hispanic: 1
 
-Crime: Battery on Law Enforc Officer
-                        African-American: 16
-                               Caucasian: 13
-                                Hispanic: 3
+Crime: battery on law enforc officer
+                        african-american: 16
+                               caucasian: 13
+                                hispanic: 3
 
-Crime: Lewdness Violation
-                        African-American: 1
+Crime: lewdness violation
+                        african-american: 1
 
-Crime: Poss Pyrrolidinovalerophenone
-                        African-American: 6
-                               Caucasian: 2
+Crime: poss pyrrolidinovalerophenone
+                        african-american: 6
+                               caucasian: 2
 
-Crime: Assault
-                                Hispanic: 2
-                               Caucasian: 10
-                        African-American: 13
-                                   Other: 1
-                         Native American: 1
+Crime: assault
+                                hispanic: 2
+                               caucasian: 10
+                        african-american: 13
+                                   other: 1
+                         native american: 1
 
-Crime: Fail To Obey Police Officer
-                        African-American: 2
+Crime: fail to obey police officer
+                        african-american: 2
 
-Crime: Grand Theft in the 1st Degree
-                               Caucasian: 1
-                        African-American: 1
-                                Hispanic: 1
+Crime: grand theft in the 1st degree
+                               caucasian: 1
+                        african-american: 1
+                                hispanic: 1
 
 Crime: nan
-                        African-American: 8
-                                Hispanic: 4
-                               Caucasian: 4
-
-Crime: Burglary Conveyance Assault/Bat
-                         Native American: 1
-                        African-American: 2
-                               Caucasian: 2
-
-Crime: Deliver 3,4 Methylenediox
-                               Caucasian: 4
-                                Hispanic: 1
-                        African-American: 3
-                                   Other: 1
-
-Crime: Aggravated Assault W/dead Weap
-                               Caucasian: 9
-                        African-American: 20
-                                Hispanic: 3
-                                   Other: 3
-                                   Asian: 1
-
-Crime: Leave Acc/Attend Veh/More $50
-                               Caucasian: 5
-                        African-American: 2
-                                Hispanic: 2
-
-Crime: Burglary Unoccupied Dwelling
-                                   Other: 3
-                        African-American: 38
-                               Caucasian: 11
-                                Hispanic: 1
-
-Crime: Possession Of Heroin
-                               Caucasian: 11
-                                Hispanic: 2
-                        African-American: 1
-
-Crime: Agg Battery Grt/Bod/Harm
-                               Caucasian: 11
-                        African-American: 8
-                                Hispanic: 4
-                                   Other: 1
-
-Crime: Lewd or Lascivious Molestation
-                               Caucasian: 4
-                                Hispanic: 2
-                        African-American: 2
-
-Crime: Sexual Performance by a Child
-
-Crime: Leaving Acc/Unattended Veh
-                               Caucasian: 5
-                        African-American: 2
-                                Hispanic: 1
-
-Crime: Criminal Mischief
-                               Caucasian: 3
-                        African-American: 2
-                                   Other: 1
-
-Crime: Aggrav Battery w/Deadly Weapon
-                        African-American: 28
-                                   Other: 4
-                               Caucasian: 19
-                                Hispanic: 5
-
-Crime: Trespass Struct/Conveyance
-
-Crime: DUI Property Damage/Injury
-                               Caucasian: 51
-                                Hispanic: 4
-                        African-American: 9
-                                   Other: 1
-
-Crime: Driving Under The Influence
-                               Caucasian: 70
-                                Hispanic: 15
-                        African-American: 15
-                                   Other: 3
-
-Crime: Aggravated Battery (Firearm/Actual Possession)
-
-Crime: Grand Theft (Motor Vehicle)
-                        African-American: 31
-                                   Other: 5
-                               Caucasian: 18
-                                Hispanic: 2
-
-Crime: Robbery / Weapon
-                                   Other: 1
-                               Caucasian: 1
-                        African-American: 2
-
-Crime: Burglary With Assault/battery
-                        African-American: 5
-                               Caucasian: 1
-                                Hispanic: 1
-
-Crime: Aggravated Battery / Pregnant
-                        African-American: 22
-                               Caucasian: 7
-                                Hispanic: 4
-                                   Other: 1
-
-Crime: Felony Driving While Lic Suspd
-                        African-American: 36
-                               Caucasian: 8
-                                   Other: 2
-                                Hispanic: 3
-
-Crime: False Imprisonment
-                               Caucasian: 6
-                        African-American: 7
-                                Hispanic: 2
-                                   Other: 2
-
-Crime: Prowling/Loitering
-                                   Other: 1
-                        African-American: 4
-                               Caucasian: 1
-
-Crime: Throw In Occupied Dwell
-
-Crime: Possession Burglary Tools
-                        African-American: 9
-                                Hispanic: 3
-                               Caucasian: 3
-
-Crime: Burglary Conveyance Unoccup
-                                Hispanic: 7
-                        African-American: 12
-                               Caucasian: 10
-
-Crime: Opert With Susp DL 2nd Offens
-                               Caucasian: 1
-                                Hispanic: 1
-                        African-American: 2
-
-Crime: Driving License Suspended
-                               Caucasian: 14
-                         Native American: 1
-                                Hispanic: 6
-                        African-American: 26
-                                   Other: 1
-
-Crime: Failure To Return Hired Vehicle
-                        African-American: 3
-
-Crime: Agg Fleeing/Eluding High Speed
-                                Hispanic: 1
-
-Crime: Attempted Robbery  No Weapon
-                               Caucasian: 1
-                        African-American: 1
-
-Crime: Resist Officer w/Violence
-                               Caucasian: 17
-                        African-American: 16
-                                   Other: 2
-                                Hispanic: 1
-
-Crime: Battery On Parking Enfor Speci
-
-Crime: Viol Injunct Domestic Violence
-                               Caucasian: 16
-                        African-American: 5
-                                   Other: 5
-                                Hispanic: 2
-                                   Asian: 1
-
-Crime: Forging Bank Bills/Promis Note
-                        African-American: 2
-
-Crime: Felony/Driving Under Influence
-                               Caucasian: 2
-                        African-American: 2
-
-Crime: Disorderly Intoxication
-                               Caucasian: 6
-                        African-American: 4
-                                Hispanic: 2
-
-Crime: Felony Petit Theft
-                        African-American: 16
-                                Hispanic: 2
-                               Caucasian: 3
-                                   Other: 1
-
-Crime: Exposes Culpable Negligence
-                               Caucasian: 2
-                                Hispanic: 1
-                        African-American: 6
-
-Crime: Leaving the Scene of Accident
-                               Caucasian: 3
-                                Hispanic: 1
-                        African-American: 3
-
-Crime: Crimin Mischief Damage $1000+
-                               Caucasian: 2
-                                Hispanic: 3
-                        African-American: 4
-
-Crime: Fleeing or Eluding a LEO
-                        African-American: 2
-                               Caucasian: 2
-
-Crime: Aggravated Battery
-                                Hispanic: 1
-                               Caucasian: 5
-                        African-American: 12
-                         Native American: 1
-                                   Asian: 1
-
-Crime: Felony DUI (level 3)
-                               Caucasian: 4
-
-Crime: Fraudulent Use of Credit Card
-                                   Other: 1
-                        African-American: 1
-                               Caucasian: 1
-
-Crime: Drivg While Lic Suspd/Revk/Can
-                        African-American: 3
-
-Crime: Poss Contr Subst W/o Prescript
-                               Caucasian: 5
-                                Hispanic: 1
-                        African-American: 3
-
-Crime: Cash Item w/Intent to Defraud
-
-Crime: False Ownership Info/Pawn Item
-                        African-American: 1
-                               Caucasian: 5
-
-Crime: False Bomb Report
-
-Crime: Leave Accd/Attend Veh/Less $50
-                        African-American: 1
-
-Crime: Fail Register Vehicle
-                        African-American: 4
-
-Crime: Trespassing/Construction Site
-                        African-American: 1
-                               Caucasian: 1
-
-Crime: Reckless Driving
-                                   Other: 1
-                                Hispanic: 3
-                               Caucasian: 2
-                        African-American: 1
-
-Crime: Consp Traff Oxycodone 28g><30k
-
-Crime: Unemployment Compensatn Fraud
-                        African-American: 1
-
-Crime: Sexual Battery / Vict 12 Yrs +
-
-Crime: Neglect Child / No Bodily Harm
-                        African-American: 7
-                               Caucasian: 4
-                                   Other: 3
-                                Hispanic: 1
-
-Crime: Aggravated Assault
-                        African-American: 2
-                                   Other: 2
-                               Caucasian: 1
-
-Crime: Disorderly Conduct
-                               Caucasian: 11
-                        African-American: 5
-                                Hispanic: 4
-                                   Other: 2
-
-Crime: Robbery / No Weapon
-                        African-American: 9
-                               Caucasian: 2
-                                   Other: 1
-
-Crime: Grand Theft Firearm
-                        African-American: 3
-
-Crime: Failure To Pay Taxi Cab Charge
-
-Crime: Use Scanning Device to Defraud
-
-Crime: Tamper With Witness/Victim/CI
-                               Caucasian: 6
-                        African-American: 4
-                                Hispanic: 3
-                                   Other: 1
-
-Crime: Violation of Injunction Order/Stalking/Cyberstalking
-
-Crime: Obstruct Fire Equipment
-                        African-American: 1
-
-Crime: Att Tamper w/Physical Evidence
-                        African-American: 1
-
-Crime: Deliver Alprazolam
-
-Crime: Unauth Poss ID Card or DL
-                                Hispanic: 1
-                        African-American: 2
-                                   Asian: 1
-                               Caucasian: 2
-
-Crime: Child Abuse
-                                   Other: 2
-                               Caucasian: 5
-                        African-American: 1
-                                   Asian: 1
-
-Crime: Manufacture Cannabis
-                        African-American: 2
-                               Caucasian: 5
-
-Crime: Attempted Robbery Firearm
-
-Crime: Fail To Secure Load
-
-Crime: Battery on a Person Over 65
-                               Caucasian: 7
-                        African-American: 3
-                                Hispanic: 1
-                                   Asian: 1
-
-Crime: Felony Battery
-                        African-American: 6
-                               Caucasian: 2
-                                   Other: 1
-
-Crime: Fel Drive License Perm Revoke
-                               Caucasian: 2
-                                Hispanic: 1
-
-Crime: Deliver Cannabis
-                        African-American: 6
-                               Caucasian: 3
-                                   Other: 1
-
-Crime: Possession of Hydromorphone
-                               Caucasian: 7
-                                Hispanic: 1
-
-Crime: Simulation of Legal Process
-
-Crime: Viol Prot Injunc Repeat Viol
-                        African-American: 6
-                                Hispanic: 2
-                                   Other: 1
-                               Caucasian: 3
-
-Crime: Grand Theft of a Fire Extinquisher
-
-Crime: Fighting/Baiting Animals
-                               Caucasian: 1
-
-Crime: Burglary Dwelling Occupied
-                               Caucasian: 5
-                        African-American: 7
-                                   Other: 2
-                                Hispanic: 1
+                        african-american: 8
+                                hispanic: 4
+                               caucasian: 4
+
+Crime: burglary conveyance assault/bat
+                         native american: 1
+                        african-american: 2
+                               caucasian: 2
+
+Crime: deliver 3,4 methylenediox
+                               caucasian: 4
+                                hispanic: 1
+                        african-american: 3
+                                   other: 1
+
+Crime: leave acc/attend veh/more $50
+                               caucasian: 5
+                        african-american: 2
+                                hispanic: 2
+
+Crime: burglary unoccupied dwelling
+                                   other: 3
+                        african-american: 38
+                               caucasian: 11
+                                hispanic: 1
+
+Crime: possession of heroin
+                               caucasian: 11
+                                hispanic: 2
+                        african-american: 1
+
+Crime: agg battery grt/bod/harm
+                               caucasian: 11
+                        african-american: 8
+                                hispanic: 4
+                                   other: 1
+
+Crime: lewd or lascivious molestation
+                               caucasian: 4
+                                hispanic: 2
+                        african-american: 2
+
+Crime: sexual performance by a child
+
+Crime: leaving acc/unattended veh
+                               caucasian: 5
+                        african-american: 2
+                                hispanic: 1
+
+Crime: criminal mischief
+                               caucasian: 3
+                        african-american: 2
+                                   other: 1
+
+Crime: aggrav battery w/deadly weapon
+                        african-american: 28
+                                   other: 4
+                               caucasian: 19
+                                hispanic: 5
+
+Crime: trespass struct/conveyance
+
+Crime: dui property damage/injury
+                               caucasian: 51
+                                hispanic: 4
+                        african-american: 9
+                                   other: 1
+
+Crime: driving under the influence
+                               caucasian: 70
+                                hispanic: 15
+                        african-american: 15
+                                   other: 3
+
+Crime: aggravated battery (firearm/actual possession)
+
+Crime: grand theft (motor vehicle)
+                        african-american: 31
+                                   other: 5
+                               caucasian: 18
+                                hispanic: 2
+
+Crime: robbery / weapon
+                                   other: 1
+                               caucasian: 1
+                        african-american: 2
+
+Crime: burglary with assault/battery
+                        african-american: 5
+                               caucasian: 1
+                                hispanic: 1
+
+Crime: aggravated battery / pregnant
+                        african-american: 22
+                               caucasian: 7
+                                hispanic: 4
+                                   other: 1
+
+Crime: felony driving while lic suspd
+                        african-american: 36
+                               caucasian: 8
+                                   other: 2
+                                hispanic: 3
+
+Crime: false imprisonment
+                               caucasian: 6
+                        african-american: 7
+                                hispanic: 2
+                                   other: 2
+
+Crime: prowling/loitering
+                                   other: 1
+                        african-american: 4
+                               caucasian: 1
+
+Crime: throw in occupied dwell
+
+Crime: possession burglary tools
+                        african-american: 9
+                                hispanic: 3
+                               caucasian: 3
+
+Crime: burglary conveyance unoccup
+                                hispanic: 7
+                        african-american: 12
+                               caucasian: 10
+
+Crime: opert with susp dl 2nd offens
+                               caucasian: 1
+                                hispanic: 1
+                        african-american: 2
+
+Crime: driving license suspended
+                               caucasian: 14
+                         native american: 1
+                                hispanic: 6
+                        african-american: 26
+                                   other: 1
+
+Crime: failure to return hired vehicle
+                        african-american: 3
+
+Crime: agg fleeing/eluding high speed
+                                hispanic: 1
+
+Crime: attempted robbery  no weapon
+                               caucasian: 1
+                        african-american: 1
+
+Crime: resist officer w/violence
+                               caucasian: 17
+                        african-american: 16
+                                   other: 2
+                                hispanic: 1
+
+Crime: battery on parking enfor speci
+
+Crime: viol injunct domestic violence
+                               caucasian: 16
+                        african-american: 5
+                                   other: 5
+                                hispanic: 2
+                                   asian: 1
+
+Crime: forging bank bills/promis note
+                        african-american: 2
+
+Crime: felony/driving under influence
+                               caucasian: 2
+                        african-american: 2
+
+Crime: disorderly intoxication
+                               caucasian: 6
+                        african-american: 4
+                                hispanic: 2
+
+Crime: felony petit theft
+                        african-american: 16
+                                hispanic: 2
+                               caucasian: 3
+                                   other: 1
+
+Crime: exposes culpable negligence
+                               caucasian: 2
+                                hispanic: 1
+                        african-american: 6
+
+Crime: leaving the scene of accident
+                               caucasian: 3
+                                hispanic: 1
+                        african-american: 3
+
+Crime: crimin mischief damage $1000+
+                               caucasian: 2
+                                hispanic: 3
+                        african-american: 4
+
+Crime: fleeing or eluding a leo
+                        african-american: 2
+                               caucasian: 2
+
+Crime: aggravated battery
+                                hispanic: 1
+                               caucasian: 5
+                        african-american: 12
+                         native american: 1
+                                   asian: 1
+
+Crime: felony dui (level 3)
+                               caucasian: 4
+
+Crime: fraudulent use of credit card
+                                   other: 1
+                        african-american: 1
+                               caucasian: 1
+
+Crime: drivg while lic suspd/revk/can
+                        african-american: 3
+
+Crime: poss contr subst w/o prescript
+                               caucasian: 5
+                                hispanic: 1
+                        african-american: 3
+
+Crime: cash item w/intent to defraud
+
+Crime: false ownership info/pawn item
+                        african-american: 1
+                               caucasian: 5
+
+Crime: false bomb report
+
+Crime: leave accd/attend veh/less $50
+                        african-american: 1
+
+Crime: fail register vehicle
+                        african-american: 4
+
+Crime: trespassing/construction site
+                        african-american: 1
+                               caucasian: 1
+
+Crime: reckless driving
+                                   other: 1
+                                hispanic: 3
+                               caucasian: 2
+                        african-american: 1
+
+Crime: consp traff oxycodone 28g><30k
+
+Crime: unemployment compensatn fraud
+                        african-american: 1
+
+Crime: sexual battery / vict 12 yrs +
+
+Crime: neglect child / no bodily harm
+                        african-american: 7
+                               caucasian: 4
+                                   other: 3
+                                hispanic: 1
+
+Crime: aggravated assault
+                        african-american: 2
+                                   other: 2
+                               caucasian: 1
+
+Crime: disorderly conduct
+                               caucasian: 11
+                        african-american: 5
+                                hispanic: 4
+                                   other: 2
+
+Crime: robbery / no weapon
+                        african-american: 9
+                               caucasian: 2
+                                   other: 1
+
+Crime: grand theft firearm
+                        african-american: 3
+
+Crime: failure to pay taxi cab charge
+
+Crime: use scanning device to defraud
+
+Crime: tamper with witness/victim/ci
+                               caucasian: 6
+                        african-american: 4
+                                hispanic: 3
+                                   other: 1
+
+Crime: violation of injunction order/stalking/cyberstalking
+
+Crime: obstruct fire equipment
+                        african-american: 1
+
+Crime: att tamper w/physical evidence
+                        african-american: 1
+
+Crime: deliver alprazolam
+
+Crime: unauth poss id card or dl
+                                hispanic: 1
+                        african-american: 2
+                                   asian: 1
+                               caucasian: 2
+
+Crime: child abuse
+                                   other: 2
+                               caucasian: 5
+                        african-american: 1
+                                   asian: 1
+
+Crime: manufacture cannabis
+                        african-american: 2
+                               caucasian: 5
+
+Crime: attempted robbery firearm
+
+Crime: fail to secure load
+
+Crime: battery on a person over 65
+                               caucasian: 7
+                        african-american: 3
+                                hispanic: 1
+                                   asian: 1
+
+Crime: felony battery
+                        african-american: 6
+                               caucasian: 2
+                                   other: 1
+
+Crime: fel drive license perm revoke
+                               caucasian: 2
+                                hispanic: 1
 
-Crime: Petit Theft $100- $300
-                               Caucasian: 2
-                                Hispanic: 2
-                        African-American: 3
+Crime: deliver cannabis
+                        african-american: 6
+                               caucasian: 3
+                                   other: 1
 
-Crime: Deliver Cocaine
-                        African-American: 12
-                               Caucasian: 1
-                                Hispanic: 1
-                                   Other: 1
+Crime: possession of hydromorphone
+                               caucasian: 7
+                                hispanic: 1
+
+Crime: simulation of legal process
+
+Crime: viol prot injunc repeat viol
+                        african-american: 6
+                                hispanic: 2
+                                   other: 1
+                               caucasian: 3
+
+Crime: grand theft of a fire extinquisher
+
+Crime: fighting/baiting animals
+                               caucasian: 1
 
-Crime: Depriv LEO of Protect/Communic
-                               Caucasian: 1
+Crime: burglary dwelling occupied
+                               caucasian: 5
+                        african-american: 7
+                                   other: 2
+                                hispanic: 1
 
-Crime: Robbery Sudd Snatch No Weapon
-                        African-American: 5
-                               Caucasian: 2
-                                Hispanic: 1
+Crime: petit theft $100- $300
+                               caucasian: 2
+                                hispanic: 2
+                        african-american: 3
 
-Crime: Delivery of 5-Fluoro PB-22
+Crime: deliver cocaine
+                        african-american: 12
+                               caucasian: 1
+                                hispanic: 1
+                                   other: 1
 
-Crime: Expired DL More Than 6 Months
-                               Caucasian: 3
-                                   Other: 1
+Crime: depriv leo of protect/communic
+                               caucasian: 1
 
-Crime: Trespass Structure/Conveyance
-                        African-American: 1
+Crime: robbery sudd snatch no weapon
+                        african-american: 5
+                               caucasian: 2
+                                hispanic: 1
 
-Crime: DUI - Enhanced
-                                Hispanic: 2
-                               Caucasian: 8
-                        African-American: 3
+Crime: delivery of 5-fluoro pb-22
 
-Crime: Sex Offender Fail Comply W/Law
-                               Caucasian: 1
+Crime: expired dl more than 6 months
+                               caucasian: 3
+                                   other: 1
 
-Crime: Sale/Del Counterfeit Cont Subs
+Crime: trespass structure/conveyance
+                        african-american: 1
 
-Crime: Possession Child Pornography
-                               Caucasian: 1
+Crime: dui - enhanced
+                                hispanic: 2
+                               caucasian: 8
+                        african-american: 3
 
-Crime: Lve/Scen/Acc/Veh/Prop/Damage
-                               Caucasian: 6
-                        African-American: 1
-                                Hispanic: 1
+Crime: sex offender fail comply w/law
+                               caucasian: 1
 
-Crime: Sex Battery Deft 18+/Vict 11-
+Crime: sale/del counterfeit cont subs
 
-Crime: Posses/Disply Susp/Revk/Frd DL
-                        African-American: 1
+Crime: possession child pornography
+                               caucasian: 1
 
-Crime: DUI Blood Alcohol Above 0.20
-                               Caucasian: 2
-                        African-American: 2
+Crime: lve/scen/acc/veh/prop/damage
+                               caucasian: 6
+                        african-american: 1
+                                hispanic: 1
 
-Crime: Burglary Conveyance Armed
-                        African-American: 3
-                               Caucasian: 1
-                                Hispanic: 1
+Crime: sex battery deft 18+/vict 11-
 
-Crime: Crim Attempt/Solicit/Consp
-                               Caucasian: 1
+Crime: posses/disply susp/revk/frd dl
+                        african-american: 1
 
-Crime: License Suspended Revoked
+Crime: dui blood alcohol above 0.20
+                               caucasian: 2
+                        african-american: 2
 
-Crime: Robbery W/Firearm
-                        African-American: 4
-                                   Other: 1
+Crime: burglary conveyance armed
+                        african-american: 3
+                               caucasian: 1
+                                hispanic: 1
 
-Crime: Money Launder 100K or More Dols
+Crime: crim attempt/solicit/consp
+                               caucasian: 1
 
-Crime: Possess Drug Paraphernalia
-                        African-American: 2
-                                Hispanic: 1
+Crime: license suspended revoked
 
-Crime: Criminal Mischief Damage <$200
-                        African-American: 3
-                               Caucasian: 3
-                                   Other: 1
-                                Hispanic: 1
+Crime: robbery w/firearm
+                        african-american: 4
+                                   other: 1
 
-Crime: Viol Pretrial Release Dom Viol
-                               Caucasian: 2
-                        African-American: 3
-                                Hispanic: 1
+Crime: money launder 100k or more dols
 
-Crime: Poss Unlaw Issue Driver Licenc
-                        African-American: 2
-                                   Other: 1
+Crime: possess drug paraphernalia
+                        african-american: 2
+                                hispanic: 1
 
-Crime: Theft/To Deprive
+Crime: criminal mischief damage <$200
+                        african-american: 3
+                               caucasian: 3
+                                   other: 1
+                                hispanic: 1
 
-Crime: Retail Theft $300 1st Offense
-                               Caucasian: 1
+Crime: viol pretrial release dom viol
+                               caucasian: 2
+                        african-american: 3
+                                hispanic: 1
 
-Crime: Intoxicated/Safety Of Another
+Crime: poss unlaw issue driver licenc
+                        african-american: 2
+                                   other: 1
 
-Crime: Gambling/Gamb Paraphernalia
+Crime: theft/to deprive
 
-Crime: Neglect/Abuse Elderly Person
+Crime: retail theft $300 1st offense
+                               caucasian: 1
 
-Crime: Grand Theft In The 3Rd Degree
-                        African-American: 1
+Crime: intoxicated/safety of another
 
-Crime: Poss Of Controlled Substance
-                        African-American: 5
-                               Caucasian: 2
+Crime: gambling/gamb paraphernalia
 
-Crime: Del of JWH-250 2-Methox 1-Pentyl
+Crime: neglect/abuse elderly person
 
-Crime: Purchasing Of Alprazolam
+Crime: poss of controlled substance
+                        african-american: 5
+                               caucasian: 2
 
-Crime: Possession Of Lorazepam
+Crime: del of jwh-250 2-methox 1-pentyl
 
-Crime: Solic to Commit Battery
+Crime: purchasing of alprazolam
 
-Crime: Carjacking with a Firearm
+Crime: possession of lorazepam
 
-Crime: Battery Emergency Care Provide
+Crime: solic to commit battery
 
-Crime: Culpable Negligence
-                               Caucasian: 1
+Crime: carjacking with a firearm
 
-Crime: Criminal Mischief>$200<$1000
-                               Caucasian: 2
-                        African-American: 4
-                                   Other: 1
+Crime: battery emergency care provide
 
-Crime: DUI - Property Damage/Personal Injury
+Crime: culpable negligence
+                               caucasian: 1
 
-Crime: Exploit Elderly Person 20-100K
+Crime: criminal mischief>$200<$1000
+                               caucasian: 2
+                        african-american: 4
+                                   other: 1
 
-Crime: Possession of Oxycodone
-                               Caucasian: 10
-                        African-American: 5
-                                Hispanic: 1
+Crime: dui - property damage/personal injury
 
-Crime: Poss of Methylethcathinone
-                        African-American: 2
+Crime: exploit elderly person 20-100k
 
-Crime: Possession Of Buprenorphine
+Crime: possession of oxycodone
+                               caucasian: 10
+                        african-american: 5
+                                hispanic: 1
 
-Crime: Tresspass Struct/Conveyance
-                               Caucasian: 1
-                        African-American: 1
+Crime: poss of methylethcathinone
+                        african-american: 2
 
-Crime: Fleeing Or Attmp Eluding A Leo
-                        African-American: 3
-                               Caucasian: 4
+Crime: possession of buprenorphine
 
-Crime: Poss Alprazolam W/int Sell/Del
+Crime: tresspass struct/conveyance
+                               caucasian: 1
+                        african-american: 1
 
-Crime: Offer Agree Secure For Lewd Act
+Crime: fleeing or attmp eluding a leo
+                        african-american: 3
+                               caucasian: 4
 
-Crime: Prostitution/Lewdness/Assign
+Crime: poss alprazolam w/int sell/del
 
-Crime: Neglect Child / Bodily Harm
-                        African-American: 1
+Crime: offer agree secure for lewd act
 
-Crime: Trespass Structure w/Dang Weap
+Crime: prostitution/lewdness/assign
 
-Crime: Possession of Benzylpiperazine
-                        African-American: 1
+Crime: neglect child / bodily harm
+                        african-american: 1
 
-Crime: Cruelty Toward Child
-                               Caucasian: 3
-                        African-American: 5
+Crime: trespass structure w/dang weap
 
-Crime: Att Burgl Unoccupied Dwel
-                        African-American: 6
-                               Caucasian: 2
+Crime: possession of benzylpiperazine
+                        african-american: 1
 
-Crime: Prostitution/Lewd Act Assignation
-                        African-American: 2
-                               Caucasian: 2
-                                Hispanic: 2
+Crime: cruelty toward child
+                               caucasian: 3
+                        african-american: 5
 
-Crime: Grand Theft Dwell Property
+Crime: att burgl unoccupied dwel
+                        african-american: 6
+                               caucasian: 2
 
-Crime: Ride Tri-Rail Without Paying
+Crime: prostitution/lewd act assignation
+                        african-american: 2
+                               caucasian: 2
+                                hispanic: 2
 
-Crime: Disrupting School Function
+Crime: grand theft dwell property
 
-Crime: Strong Armed  Robbery
+Crime: ride tri-rail without paying
 
-Crime: Poss Trifluoromethylphenylpipe
+Crime: disrupting school function
 
-Crime: Felony Batt(Great Bodily Harm)
-                        African-American: 4
-                               Caucasian: 2
-                                   Other: 1
+Crime: strong armed  robbery
 
-Crime: Carry Open/Uncov Bev In Pub
-                               Caucasian: 1
+Crime: poss trifluoromethylphenylpipe
 
-Crime: Possession of Hydrocodone
-                        African-American: 2
-                               Caucasian: 4
-                                Hispanic: 1
+Crime: felony batt(great bodily harm)
+                        african-american: 4
+                               caucasian: 2
+                                   other: 1
 
-Crime: Agg Assault Law Enforc Officer
+Crime: carry open/uncov bev in pub
+                               caucasian: 1
 
-Crime: Counterfeit Lic Plates/Sticker
+Crime: possession of hydrocodone
+                        african-american: 2
+                               caucasian: 4
+                                hispanic: 1
 
-Crime: Sale/Del Cannabis At/Near Scho
-                        African-American: 2
+Crime: agg assault law enforc officer
 
-Crime: Poss of Firearm by Convic Felo
-                        African-American: 1
+Crime: counterfeit lic plates/sticker
 
-Crime: Live on Earnings of Prostitute
+Crime: sale/del cannabis at/near scho
+                        african-american: 2
 
-Crime: Refuse to Supply DNA Sample
+Crime: poss of firearm by convic felo
+                        african-american: 1
 
-Crime: Stalking (Aggravated)
-                        African-American: 3
-                                Hispanic: 1
-                               Caucasian: 2
-                                   Other: 1
+Crime: live on earnings of prostitute
 
-Crime: Sel/Pur/Mfr/Del Control Substa
+Crime: refuse to supply dna sample
 
-Crime: Poss Drugs W/O A Prescription
-                               Caucasian: 1
+Crime: stalking (aggravated)
+                        african-american: 3
+                                hispanic: 1
+                               caucasian: 2
+                                   other: 1
 
-Crime: Aggravated Assault W/o Firearm
-                                Hispanic: 1
+Crime: sel/pur/mfr/del control substa
 
-Crime: Poss of Cocaine W/I/D/S 1000FT Park
-                        African-American: 4
+Crime: poss drugs w/o a prescription
+                               caucasian: 1
 
-Crime: Lewd Act Presence Child 16-
+Crime: aggravated assault w/o firearm
+                                hispanic: 1
 
-Crime: Soliciting For Prostitution
+Crime: poss of cocaine w/i/d/s 1000ft park
+                        african-american: 4
 
-Crime: Extradition/Defendants
-                                Hispanic: 1
+Crime: lewd act presence child 16-
 
-Crime: Poss Tetrahydrocannabinols
+Crime: soliciting for prostitution
 
-Crime: Refuse Submit Blood/Breath Test
+Crime: extradition/defendants
+                                hispanic: 1
 
-Crime: Aggrav Stalking After Injunctn
-                        African-American: 3
-                               Caucasian: 1
+Crime: poss tetrahydrocannabinols
 
-Crime: Solicit Deliver Cocaine
-                               Caucasian: 2
-                        African-American: 1
+Crime: refuse submit blood/breath test
 
-Crime: Attempt Burglary (Struct)
+Crime: aggrav stalking after injunctn
+                        african-american: 3
+                               caucasian: 1
 
-Crime: Burglary Dwelling Armed
-                        African-American: 1
-                               Caucasian: 1
+Crime: solicit deliver cocaine
+                               caucasian: 2
+                        african-american: 1
 
-Crime: DWI w/Inj Susp Lic / Habit Off
-                        African-American: 1
+Crime: attempt burglary (struct)
 
-Crime: DUI- Enhanced
-                               Caucasian: 2
-                                Hispanic: 1
-                        African-American: 1
+Crime: burglary dwelling armed
+                        african-american: 1
+                               caucasian: 1
 
-Crime: Violation License Restrictions
-                                Hispanic: 1
+Crime: dwi w/inj susp lic / habit off
+                        african-american: 1
 
-Crime: Throw Deadly Missile Into Veh
-                                   Other: 1
+Crime: dui- enhanced
+                               caucasian: 2
+                                hispanic: 1
+                        african-american: 1
 
-Crime: Aggr Child Abuse-Torture,Punish
+Crime: violation license restrictions
+                                hispanic: 1
 
-Crime: Purchase Cannabis
-                        African-American: 3
-                               Caucasian: 1
+Crime: throw deadly missile into veh
+                                   other: 1
 
-Crime: Lewd/Lasc Battery Pers 12+/<16
-                                Hispanic: 3
+Crime: aggr child abuse-torture,punish
 
-Crime: Robbery W/Deadly Weapon
+Crime: purchase cannabis
+                        african-american: 3
+                               caucasian: 1
 
-Crime: Felon in Pos of Firearm or Amm
+Crime: lewd/lasc battery pers 12+/<16
+                                hispanic: 3
 
-Crime: D.U.I. Serious Bodily Injury
+Crime: robbery w/deadly weapon
 
-Crime: Poss Anti-Shoplifting Device
-                        African-American: 1
+Crime: felon in pos of firearm or amm
 
-Crime: Use Of 2 Way Device To Fac Fel
+Crime: d.u.i. serious bodily injury
 
-Crime: Open Carrying Of Weapon
+Crime: poss anti-shoplifting device
+                        african-american: 1
 
-Crime: Hiring with Intent to Defraud
+Crime: use of 2 way device to fac fel
 
-Crime: Carrying A Concealed Weapon
+Crime: open carrying of weapon
 
-Crime: Solicitation On Felony 3 Deg
-                                Hispanic: 1
-                               Caucasian: 1
+Crime: hiring with intent to defraud
 
-Crime: Video Voyeur-<24Y on Child >16
+Crime: carrying a concealed weapon
 
-Crime: Sell or Offer for Sale Counterfeit Goods
-                                   Other: 1
-                        African-American: 1
+Crime: solicitation on felony 3 deg
+                                hispanic: 1
+                               caucasian: 1
 
-Crime: Throw Missile Into Pub/Priv Dw
+Crime: video voyeur-<24y on child >16
 
-Crime: Agg Assault W/int Com Fel Dome
-                                Hispanic: 1
-                        African-American: 2
-                                   Other: 1
+Crime: sell or offer for sale counterfeit goods
+                                   other: 1
+                        african-american: 1
 
-Crime: Crim Use Of Personal Id Info
+Crime: throw missile into pub/priv dw
 
-Crime: Possession Of Diazepam
+Crime: agg assault w/int com fel dome
+                                hispanic: 1
+                        african-american: 2
+                                   other: 1
 
-Crime: Burglary Structure Assault/Batt
+Crime: possession of diazepam
 
-Crime: Shoot In Occupied Dwell
+Crime: burglary structure assault/batt
 
-Crime: Unl/Disturb Education/Instui
+Crime: shoot in occupied dwell
 
-Crime: Violation Of Boater Safety Id
+Crime: unl/disturb education/instui
 
-Crime: False Motor Veh Insurance Card
+Crime: violation of boater safety id
 
-Crime: DWLS Susp/Cancel Revoked
+Crime: false motor veh insurance card
 
-Crime: Deliver Cocaine 1000FT Store
+Crime: dwls susp/cancel revoked
 
-Crime: Uttering Forged Bills
-                        African-American: 2
+Crime: deliver cocaine 1000ft store
 
-Crime: Aggravated Battery On 65/Older
-                                Hispanic: 1
+Crime: uttering forged bills
+                        african-american: 2
 
-Crime: Possess/Use Weapon 1 Deg Felon
+Crime: aggravated battery on 65/older
+                                hispanic: 1
 
-Crime: Fail Obey Driv Lic Restrictions
+Crime: possess/use weapon 1 deg felon
 
-Crime: Carjacking w/o Deadly Weapon
+Crime: fail obey driv lic restrictions
 
-Crime: Contribute Delinquency Of A Minor
-                        African-American: 1
+Crime: carjacking w/o deadly weapon
 
-Crime: Use of Anti-Shoplifting Device
-                               Caucasian: 1
+Crime: contribute delinquency of a minor
+                        african-american: 1
 
-Crime: Aggrav Child Abuse-Causes Harm
+Crime: use of anti-shoplifting device
+                               caucasian: 1
 
-Crime: Possession of Codeine
-                        African-American: 1
+Crime: aggrav child abuse-causes harm
 
-Crime: Tamper With Victim
+Crime: possession of codeine
+                        african-american: 1
 
-Crime: Abuse Without Great Harm
-                               Caucasian: 1
+Crime: tamper with victim
 
-Crime: Traffick Amphetamine 28g><200g
+Crime: abuse without great harm
+                               caucasian: 1
 
-Crime: Compulsory Sch Attnd Violation
+Crime: traffick amphetamine 28g><200g
 
-Crime: Battery On Fire Fighter
+Crime: compulsory sch attnd violation
 
-Crime: Oper Motorcycle W/O Valid DL
+Crime: battery on fire fighter
 
-Crime: Traffick Hydrocodone   4g><14g
+Crime: oper motorcycle w/o valid dl
 
-Crime: Poss/Sell/Del Cocaine 1000FT Sch
+Crime: traffick hydrocodone   4g><14g
 
-Crime: Del Morphine at/near Park
+Crime: poss/sell/del cocaine 1000ft sch
 
-Crime: Possess Tobacco Product Under 18
+Crime: del morphine at/near park
 
-Crime: Burglary Conveyance Occupied
-                                Hispanic: 1
+Crime: possess tobacco product under 18
 
-Crime: Escape
+Crime: burglary conveyance occupied
+                                hispanic: 1
 
-Crime: Murder in the First Degree
+Crime: escape
 
-Crime: Viol Injunction Protect Dom Vi
-                        African-American: 1
-                               Caucasian: 1
-                                Hispanic: 1
+Crime: murder in the first degree
 
-Crime: Use Computer for Child Exploit
+Crime: viol injunction protect dom vi
+                        african-american: 1
+                               caucasian: 1
+                                hispanic: 1
 
-Crime: Murder In 2nd Degree W/firearm
+Crime: use computer for child exploit
 
-Crime: Felony Committing Prostitution
+Crime: murder in 2nd degree w/firearm
 
-Crime: Harass Witness/Victm/Informnt
+Crime: felony committing prostitution
 
-Crime: Possession Of Phentermine
+Crime: harass witness/victm/informnt
 
-Crime: Possession Of 3,4Methylenediox
+Crime: possession of phentermine
 
-Crime: DUI/Property Damage/Persnl Inj
+Crime: possession of 3,4methylenediox
 
-Crime: Dealing in Stolen Property
-                               Caucasian: 2
-                        African-American: 3
-                                   Other: 1
+Crime: dui/property damage/persnl inj
 
-Crime: Obtain Control Substance By Fraud
-                               Caucasian: 1
+Crime: dealing in stolen property
+                               caucasian: 2
+                        african-american: 4
+                                   other: 1
 
-Crime: Tampering with a Victim
+Crime: obtain control substance by fraud
+                               caucasian: 1
 
-Crime: Solicit To Deliver Cocaine
+Crime: tampering with a victim
 
-Crime: Offn Against Intellectual Prop
+Crime: solicit to deliver cocaine
 
-Crime: Traffick Oxycodone     4g><14g
-                               Caucasian: 1
+Crime: offn against intellectual prop
 
-Crime: Interfere W/Traf Cont Dev RR
+Crime: traffick oxycodone     4g><14g
+                               caucasian: 1
 
-Crime: Tresspass in Structure or Conveyance
-                        African-American: 1
+Crime: interfere w/traf cont dev rr
 
-Crime: Att Burgl Struc/Conv Dwel/Occp
+Crime: tresspass in structure or conveyance
+                        african-american: 1
 
-Crime: Murder in 2nd Degree
+Crime: att burgl struc/conv dwel/occp
 
-Crime: Poss Wep Conv Felon
-                        African-American: 1
-                               Caucasian: 1
+Crime: murder in 2nd degree
 
-Crime: DOC/Cause Public Danger
-                               Caucasian: 1
+Crime: poss wep conv felon
+                        african-american: 1
+                               caucasian: 1
 
-Crime: Fail Sex Offend Report Bylaw
+Crime: doc/cause public danger
+                               caucasian: 1
 
-Crime: Grand Theft of the 2nd Degree
+Crime: fail sex offend report bylaw
 
-Crime: Corrupt Public Servant
-                        African-American: 2
-                               Caucasian: 2
+Crime: grand theft of the 2nd degree
 
-Crime: Del 3,4 Methylenedioxymethcath
+Crime: corrupt public servant
+                        african-american: 2
+                               caucasian: 2
 
-Crime: Possession Of Amphetamine
-                               Caucasian: 2
-                        African-American: 2
-                                Hispanic: 1
+Crime: del 3,4 methylenedioxymethcath
 
-Crime: Lease For Purpose Trafficking
+Crime: possession of amphetamine
+                               caucasian: 2
+                        african-american: 2
+                                hispanic: 1
 
-Crime: Poss Of RX Without RX
+Crime: lease for purpose trafficking
 
-Crime: Lewd/Lasciv Molest Elder Persn
+Crime: poss of rx without rx
 
-Crime: Opert With Susp DL 2ND Offense
+Crime: lewd/lasciv molest elder persn
 
-Crime: Aggrav Child Abuse-Agg Battery
-                        African-American: 2
+Crime: opert with susp dl 2nd offense
 
-Crime: Burglary Assault/Battery Armed
-                               Caucasian: 1
+Crime: aggrav child abuse-agg battery
+                        african-american: 2
 
-Crime: DWLS Canceled Disqul 1st Off
+Crime: burglary assault/battery armed
+                               caucasian: 1
 
-Crime: Bribery Athletic Contests
+Crime: dwls canceled disqul 1st off
 
-Crime: Grand Theft on 65 Yr or Older
-                        African-American: 1
+Crime: bribery athletic contests
 
-Crime: Kidnapping / Domestic Violence
-                        African-American: 1
+Crime: grand theft on 65 yr or older
+                        african-american: 1
 
-Crime: Cruelty to Animals
+Crime: kidnapping / domestic violence
+                        african-american: 1
 
-Crime: Unauth C/P/S Sounds>1000/Audio
+Crime: cruelty to animals
 
-Crime: Cause Anoth Phone Ring Repeat
+Crime: unauth c/p/s sounds>1000/audio
 
-Crime: Possession of LSD
-                               Caucasian: 1
+Crime: cause anoth phone ring repeat
 
-Crime: Tamper With Witness
-                               Caucasian: 1
+Crime: possession of lsd
+                               caucasian: 1
 
-Crime: Harm Public Servant Or Family
+Crime: tamper with witness
+                               caucasian: 1
 
-Crime: Possess Cannabis 1000FTSch
+Crime: harm public servant or family
 
-Crime: Consp Traff Oxycodone  4g><14g
+Crime: possess cannabis 1000ftsch
 
-Crime: Consume Alcoholic Bev Pub
+Crime: consp traff oxycodone  4g><14g
 
-Crime: Poss Unlaw Issue Id
+Crime: consume alcoholic bev pub
 
-Crime: Poss F/Arm Delinq
-                        African-American: 2
+Crime: poss unlaw issue id
 
-Crime: Shoot Into Vehicle
+Crime: poss f/arm delinq
+                        african-american: 2
 
-Crime: Battery Spouse Or Girlfriend
+Crime: shoot into vehicle
 
-Crime: Delivery Of Drug Paraphernalia
+Crime: battery spouse or girlfriend
 
-Crime: Theft
+Crime: delivery of drug paraphernalia
 
-Crime: Uttering Forged Credit Card
-                                Hispanic: 1
+Crime: theft
 
-Crime: Misuse Of 911 Or E911 System
+Crime: uttering forged credit card
+                                hispanic: 1
 
-Crime: Agg Abuse Elderlly/Disabled Adult
+Crime: misuse of 911 or e911 system
 
-Crime: Prostitution
+Crime: agg abuse elderlly/disabled adult
 
-Crime: Poss Similitude of Drivers Lic
-                                Hispanic: 1
+Crime: prostitution
 
-Crime: Present Proof of Invalid Insur
+Crime: poss similitude of drivers lic
+                                hispanic: 1
 
-Crime: Structuring Transactions
+Crime: present proof of invalid insur
 
-Crime: Principal In The First Degree
+Crime: structuring transactions
 
-Crime: Possession Of Fentanyl
+Crime: principal in the first degree
 
-Crime: Possess w/I/Utter Forged Bills
+Crime: possession of fentanyl
 
-Crime: False Info LEO During Invest
+Crime: possess w/i/utter forged bills
 
-Crime: Threat Public Servant
+Crime: false info leo during invest
 
-Crime: Del Cannabis For Consideration
-                               Caucasian: 1
+Crime: threat public servant
 
-Crime: Possession Of Paraphernalia
+Crime: del cannabis for consideration
+                               caucasian: 1
 
-Crime: Criminal Attempt 3rd Deg Felon
+Crime: possession of paraphernalia
 
-Crime: Possess Weapon On School Prop
+Crime: criminal attempt 3rd deg felon
 
-Crime: Unlicensed Telemarketing
-                               Caucasian: 1
+Crime: possess weapon on school prop
 
-Crime: Conspiracy to Deliver Cocaine
+Crime: unlicensed telemarketing
+                               caucasian: 1
 
-Crime: Fraud Obtain Food or Lodging
+Crime: conspiracy to deliver cocaine
 
-Crime: Arson in the First Degree
-                        African-American: 1
+Crime: fraud obtain food or lodging
 
-Crime: Possession Firearm School Prop
+Crime: arson in the first degree
+                        african-american: 1
 
-Crime: Falsely Impersonating Officer
+Crime: possession firearm school prop
 
-Crime: Poss Oxycodone W/Int/Sell/Del
+Crime: falsely impersonating officer
 
-Crime: Poss of Vessel w/Altered ID NO
+Crime: poss oxycodone w/int/sell/del
 
-Crime: Conspiracy Dealing Stolen Prop
+Crime: poss of vessel w/altered id no
 
-Crime: Felony DUI - Enhanced
+Crime: conspiracy dealing stolen prop
 
-Crime: Aggravated Battery (Firearm)
-                        African-American: 1
+Crime: felony dui - enhanced
 
-Crime: False 911 Call
+Crime: aggravated battery (firearm)
+                        african-american: 1
 
-Crime: Computer Pornography
+Crime: false 911 call
 
-Crime: Trespass Property w/Dang Weap
+Crime: computer pornography
 
-Crime: Aggress/Panhandle/Beg/Solict
+Crime: trespass property w/dang weap
 
-Crime: Purchase/P/W/Int Cannabis
+Crime: aggress/panhandle/beg/solict
 
-Crime: Deliver Cannabis 1000FTSch
+Crime: purchase/p/w/int cannabis
 
-Crime: Unlawful Conveyance of Fuel
+Crime: deliver cannabis 1000ftsch
 
-Crime: Fail Register Career Offender
+Crime: unlawful conveyance of fuel
 
-Crime: Lewd/Lasc Exhib Presence <16yr
+Crime: fail register career offender
 
-Crime: Armed Trafficking in Cannabis
+Crime: lewd/lasc exhib presence <16yr
 
-Crime: Poss Meth/Diox/Meth/Amp (MDMA)
+Crime: armed trafficking in cannabis
 
-Crime: Dealing In Stolen Property
+Crime: poss meth/diox/meth/amp (mdma)
 
-Crime: Offer Agree Secure/Lewd Act
+Crime: offer agree secure/lewd act
 
-Crime: Sell Cannabis
+Crime: sell cannabis
 
-Crime: Compulsory Attendance Violation
+Crime: compulsory attendance violation
 
-Crime: Possess Controlled Substance
+Crime: possess controlled substance
 
-Crime: Unlawful Use Of Police Badges
+Crime: unlawful use of police badges
 
-Crime: Manage Busn W/O City Occup Lic
+Crime: manage busn w/o city occup lic
 
-Crime: Sel Etc/Pos/w/Int Contrft Schd
+Crime: sel etc/pos/w/int contrft schd
 
-Crime: Possession Of Anabolic Steroid
+Crime: possession of anabolic steroid
 
-Crime: Purchase Of Cocaine
+Crime: purchase of cocaine
 
-Crime: Deliver Cocaine 1000FT Park
+Crime: deliver cocaine 1000ft park
 
-Crime: Burglary Structure Occupied
+Crime: burglary structure occupied
 
-Crime: Alcoholic Beverage Violation-FL
+Crime: alcoholic beverage violation-fl
 
