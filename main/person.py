@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 17:11:22
+# @Last Modified time: 2018-05-22 17:21:05
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -31,9 +31,31 @@ class Race:
 		data += "\n"
 		return data
 
+class Crime:
+	def __init__(self, crime):
+		self.crime = crime
+		self.races = {}
+	def add(self, race):
+		if race in self.races:
+			self.races[race] += 1
+		else:
+			self.races[race] = 1
+	def print(self):
+		print("Crime: "+self.crime)
+		for key,value in self.races.items():
+			print("%40s: %s" % (str(key), str(value)))
+		print()
 
-relations = {}
+	def getData(self):
+		data = ""
+		data += "Crime: "+str(self.crime)+"\n"
+		for key,value in self.races.items():
+			data += "%40s: %s\n" % (str(key), str(value))
+		data += "\n"
+		return data
 
+rawRelations = {}
+crimeRelations = {}
 
 if __name__ == "__main__":
 	datafile = "compas-scores-two-years-violent.csv"
@@ -41,13 +63,23 @@ if __name__ == "__main__":
 	for index, series in df.iterrows():
 		crime = series["c_charge_desc"]
 		race = series["race"]
-		if race in relations:
-			relations[race].add(crime)
+		if race in rawRelations:
+			rawRelations[race].add(crime)
 		else:
-			relations[race] = Race(race)
+			rawRelations[race] = Race(race)
+
+		if crime in crimeRelations:
+			crimeRelations[crime].add(race)
+		else:
+			crimeRelations[crime] = Crime(crime)
 
 # print(relations["African-American"].crimes)
-file = open("data.txt","w")
-for key,value in relations.items():
+file = open("rawData.txt","w")
+for key,value in rawRelations.items():
+	file.write(value.getData())
+file.close()
+
+file = open("crimeData.txt","w")
+for key,value in crimeRelations.items():
 	file.write(value.getData())
 file.close()
