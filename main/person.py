@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 19:09:34
+# @Last Modified time: 2018-05-22 19:25:19
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -80,15 +80,14 @@ if __name__ == "__main__":
 	for index, series in df.iterrows():
 		crime = str(series["c_charge_desc"]).lower()
 		race = str(series["race"]).lower()
-
 		if crime == "nan":
 			continue
+		crime = crimesByGroup[crime]
 	
 		if race in rawRelations:
 			rawRelations[race].add(crime)
 		else:
 			rawRelations[race] = Race(race, crime)
-		crime = crimesByGroup[crime]
 		if crime in crimeRelations:
 			crimeRelations[crime].add(race)
 		else:
