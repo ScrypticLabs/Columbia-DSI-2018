@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 17:26:50
+# @Last Modified time: 2018-05-22 17:30:41
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -58,7 +58,7 @@ rawRelations = {}
 crimeRelations = {}
 
 if __name__ == "__main__":
-	datafile = "compas-scores-two-years-violent.csv"
+	datafile = "compas-scores-two-years.csv"
 	df = pd.read_csv(datafile)
 	for index, series in df.iterrows():
 		crime = str(series["c_charge_desc"]).lower()
