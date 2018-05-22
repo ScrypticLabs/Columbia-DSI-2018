@@ -1,4 +1,5 @@
 Race: other
+            aggravated assault w/firearm: 4
                    arrest case no charge: 49
                                  battery: 88
                  agg fleeing and eluding: 1
@@ -11,7 +12,6 @@ Race: other
             burglary unoccupied dwelling: 5
                                      nan: 1
        possess cannabis/20 grams or less: 5
-            aggravated assault w/firearm: 3
            driving while license revoked: 6
                  throw in occupied dwell: 1
           aggravated assault w/dead weap: 9
@@ -99,6 +99,7 @@ sell or offer for sale counterfeit goods: 1
            aggravated battery / pregnant: 1
 
 Race: african-american
+          felony battery w/prior convict: 30
                    possession of cocaine: 259
                   possession of cannabis: 40
                                  battery: 513
@@ -170,7 +171,6 @@ aggravated battery (firearm/actual possession): 1
                       aggravated battery: 14
                 possession of alprazolam: 14
             aggravated assault w/firearm: 9
-          felony battery w/prior convict: 29
           dui level 0.15 or minor in veh: 11
            fraudulent use of credit card: 3
            cash item w/intent to defraud: 2
@@ -415,6 +415,7 @@ sell or offer for sale counterfeit goods: 2
                      possession of xlr11: 1
 
 Race: caucasian
+               possession burglary tools: 8
                                  battery: 432
                          insurance fraud: 1
                  poss 3,4 mdma (ecstasy): 2
@@ -432,7 +433,6 @@ Race: caucasian
                  possession of oxycodone: 16
            grand theft in the 3rd degree: 135
           burglary dwelling assault/batt: 9
-               possession burglary tools: 7
            pos cannabis w/intent sel/del: 22
           poss3,4 methylenedioxymethcath: 22
                 possession of alprazolam: 29
@@ -676,13 +676,13 @@ Race: caucasian
              burglary structure occupied: 1
 
 Race: hispanic
+                                 battery: 113
           lewd/lasc battery pers 12+/<16: 4
                    arrest case no charge: 96
        possess cannabis/20 grams or less: 13
              unlaw lictag/sticker attach: 2
                    possession of cocaine: 20
               burglary structure unoccup: 7
-                                 battery: 112
            battery on law enforc officer: 7
            grand theft in the 3rd degree: 35
           poss3,4 methylenedioxymethcath: 8
@@ -815,12 +815,12 @@ Race: hispanic
                   possession of ethylone: 1
 
 Race: native american
+                   arrest case no charge: 3
           dui level 0.15 or minor in veh: 1
                                  assault: 2
          burglary conveyance assault/bat: 1
                driving license suspended: 1
           poss3,4 methylenedioxymethcath: 1
-                   arrest case no charge: 2
                    possession of cocaine: 3
          aggr child abuse-torture,punish: 1
            driving while license revoked: 1
@@ -830,6 +830,7 @@ Race: native american
           use of anti-shoplifting device: 1
 
 Race: asian
+              burglary structure unoccup: 1
            driving while license revoked: 1
           att tamper w/physical evidence: 1
                unauth poss id card or dl: 1

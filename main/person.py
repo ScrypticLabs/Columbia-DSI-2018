@@ -2,16 +2,17 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 17:30:41
+# @Last Modified time: 2018-05-22 17:41:47
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
 import pandas as pd 
 
 class Race:
-	def __init__(self, race):
+	def __init__(self, race, crime):
 		self.race = race
 		self.crimes = {}
+		self.add(crime)
 	def add(self, crime):
 		if crime in self.crimes:
 			self.crimes[crime] += 1
@@ -32,9 +33,10 @@ class Race:
 		return data
 
 class Crime:
-	def __init__(self, crime):
+	def __init__(self, crime, race):
 		self.crime = crime
 		self.races = {}
+		self.add(race)
 	def add(self, race):
 		if race in self.races:
 			self.races[race] += 1
@@ -63,15 +65,16 @@ if __name__ == "__main__":
 	for index, series in df.iterrows():
 		crime = str(series["c_charge_desc"]).lower()
 		race = str(series["race"]).lower()
+	
 		if race in rawRelations:
 			rawRelations[race].add(crime)
 		else:
-			rawRelations[race] = Race(race)
+			rawRelations[race] = Race(race, crime)
 
 		if crime in crimeRelations:
 			crimeRelations[crime].add(race)
 		else:
-			crimeRelations[crime] = Crime(crime)
+			crimeRelations[crime] = Crime(crime, race)
 
 file = open("rawData.txt","w")
 for key,value in rawRelations.items():
