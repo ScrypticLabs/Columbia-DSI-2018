@@ -1,11 +1,26 @@
 Crime: assault
-                        african-american: 2
+                                   other: 17
+                               caucasian: 53
+                        african-american: 97
+                                hispanic: 17
+                         native american: 2
+                                   asian: 3
 
 Crime: battery
-                        african-american: 1
+                        african-american: 742
+                                   other: 109
+                               caucasian: 565
+                                hispanic: 157
+                                   asian: 11
+                         native american: 2
 
 Crime: possession (drugs)
-                                hispanic: 1
+                        african-american: 594
+                               caucasian: 431
+                                hispanic: 75
+                                   other: 38
+                         native american: 4
+                                   asian: 1
 
 Crime: arrest case no charge
                                    other: 49
@@ -16,47 +31,89 @@ Crime: arrest case no charge
                                    asian: 4
 
 Crime: possession (others)
-                        african-american: 1
+                               caucasian: 19
+                        african-american: 48
+                                hispanic: 8
+                                   other: 4
 
 Crime: others
-                        african-american: 1
+                               caucasian: 511
+                        african-american: 905
+                                hispanic: 157
+                                   other: 88
+                                   asian: 7
+                         native american: 4
 
 Crime: theft
-                               caucasian: 1
+                        african-american: 302
+                                   other: 39
+                               caucasian: 169
+                                hispanic: 40
+                                   asian: 2
 
 Crime: dui/dwi
-                        african-american: 1
+                               caucasian: 207
+                        african-american: 57
+                                hispanic: 41
+                         native american: 1
+                                   other: 7
+                                   asian: 2
 
 Crime: burglary
-                        african-american: 1
+                        african-american: 169
+                                hispanic: 30
+                               caucasian: 89
+                                   other: 14
+                                   asian: 1
+                         native american: 1
 
 Crime: selling
-                        african-american: 1
-
-Crime: delivery
-                        african-american: 1
-
-Crime: trespassing
+                        african-american: 4
                                caucasian: 1
 
+Crime: delivery
+                        african-american: 47
+                               caucasian: 23
+                                   other: 4
+                                hispanic: 3
+                                   asian: 1
+
+Crime: trespassing
+                               caucasian: 8
+                        african-american: 14
+                                   other: 2
+
 Crime: robbery
+                        african-american: 45
+                                   other: 3
+                               caucasian: 11
                                 hispanic: 1
 
 Crime: murder
-                        african-american: 1
+                               caucasian: 2
+                        african-american: 2
 
 Crime: trafficking
-                               caucasian: 1
+                        african-american: 2
+                               caucasian: 2
+                                hispanic: 2
 
 Crime: purchasing
+                               caucasian: 3
+                                   other: 1
+                        african-american: 4
                                 hispanic: 1
 
 Crime: carjacking
-                        african-american: 1
+                        african-american: 2
 
 Crime: prostitution
-                                hispanic: 1
+                        african-american: 6
+                               caucasian: 9
+                                hispanic: 2
+                                   other: 1
 
 Crime: kidnapping
+                                hispanic: 1
                         african-american: 1
 

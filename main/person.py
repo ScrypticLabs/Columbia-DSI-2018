@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 19:03:36
+# @Last Modified time: 2018-05-22 19:09:34
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -88,11 +88,11 @@ if __name__ == "__main__":
 			rawRelations[race].add(crime)
 		else:
 			rawRelations[race] = Race(race, crime)
-
+		crime = crimesByGroup[crime]
 		if crime in crimeRelations:
-			crimeRelations[crimesByGroup[crime]].add(race)
+			crimeRelations[crime].add(race)
 		else:
-			crimeRelations[crimesByGroup[crime]] = Crime(crimesByGroup[crime], race)
+			crimeRelations[crime] = Crime(crime, race)
 
 file = open("rawData.txt","w")
 for key,value in rawRelations.items():
