@@ -249,7 +249,7 @@ Trespass On School Grounds
 Trespass Other Structure Conve
 Trespass Other Structure Convey
 Trespass Private PrOperatingy
-Trespass PrOperatingy with Dang Weap
+Trespass Private with Dangerous Weapon
 Trespass Structure Convey Occupy
 Trespass Structure Conveyance
 Trespass Structure with Dang Weap
@@ -261,7 +261,7 @@ Tresspass Structure Conveyance
 Tresspass in Structure Convey Occupy
 Tresspass in Structure or Conveyance
 - Driving with invalid license
-Drivg While License Suspd/Revk/Can
+Driving While License Suspended/Revoked/Can
 Driving License Suspended
 Driving While License Revoked
 Driving while Driver's License Suspended / Financial Resp
@@ -277,7 +277,7 @@ Fraudulent Use Credit Card
 Fraudulent Use Of Credit Card
 Fraudulent Use of Credit Card
 Obtain Control Substance By Fraud
-Use Fraud OBT Rcpt/False Rcpt
+Use Fraud OBT Receipt/False Receipt
 - Violence against children/elderly/women
 Aggravated Child Abuse-Aggravated Battery
 Aggravated Battery On 65/Older
@@ -506,7 +506,7 @@ Sound Articles Over 100
 Stalking
 Stalking (Aggravated)
 Structuring Transactions
- Suspended Drivers License 1st Offense
+Suspended Drivers License 1st Offense
 Take Copper Other Metal Intrf/Damg Utility
 Tamper With Victim
 Tamper With Witness

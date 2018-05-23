@@ -41,7 +41,6 @@ Poss/Sell/Del/Man Amobarbital
 Poss/Sell/Deliver Clonazepam
 Poss/pur/sell/deliver Cocaine
 Poss3,4 Methylenedioxymethcath
-Posses/Disply Susp/Revk/Frd DL
 Possess Cannabis 1000FTSch
 Possess Cannabis/20 Grams Or Less
 Possess Controlled Substance
@@ -268,6 +267,7 @@ Driving While License Revoked
 Driving while DL Susp / Financial Resp
 No Valid DL / Non Resident
 No/Improper Drivers License
+Posses/Disply Susp/Revk/Frd DL
 - Fraud
 Fraud Obtain Driver License
 Fraud Obtain Food or Lodging
