@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 22:50:14
+# @Last Modified time: 2018-05-22 23:02:17
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -47,16 +47,12 @@ class Race:
 		return self.total
 
 class Crime:
-	def __init__(self, crime, race, danger):
+	def __init__(self, crime, allRaces, danger):
 		self.crime = crime
-		self.races = {}
+		self.races = {race: 0 for race in allRaces}
 		self.danger = danger
-		self.add(race)
 	def add(self, race):
-		if race in self.races:
-			self.races[race] += 1
-		else:
-			self.races[race] = 1
+		self.races[race] += 1
 	def print(self):
 		print("Crime: "+self.crime)
 		for key,value in self.races.items():
@@ -94,6 +90,8 @@ class BigData:
 if __name__ == "__main__":
 	io.config.api_key = "9bc524ad52580fbbc308b2b136777ef9"
 	plotly.tools.set_credentials_file(username="navravi", api_key="uYbUJOZ3VYmK0YILm3Gq")
+
+	allRaces = ["caucasian", "african-american", "asian", "native american", "hispanic", "other"]
 
 	rawRelations = {}
 	crimeRelations = {}
@@ -162,7 +160,8 @@ if __name__ == "__main__":
 		if crime in crimeRelations:
 			crimeRelations[crime].add(race)
 		else:
-			crimeRelations[crime] = Crime(crime, race, danger)
+			crimeRelations[crime] = Crime(crime, allRaces, danger)
+			crimeRelations[crime].add(race)
 
 	for key, value in crimeRelations.items():
 		crime = key
@@ -281,7 +280,7 @@ if __name__ == "__main__":
 	data = [trace_caucasian, trace_african_american, trace_hispanic, trace_native_american, trace_asian, trace_other]
 
 	layout = dict(title = 'Criminal Activity by Race',
-	              yaxis = dict(zeroline = False, title = "Percent Criminal Activity within Race"),
+	              yaxis = dict(zeroline = False, title = "Percent Criminal Activity within Race", fixedrange = True),
 	              xaxis = dict(zeroline = False, title = "Danger Sentiment", fixedrange = True)
 	             )
 

@@ -1,110 +1,136 @@
 Crime: robbery	Danger: 0.026756049706958808
-                        african-american: 0.012215
-                                   other: 0.007979
                                caucasian: 0.004499
+                        african-american: 0.012215
+                                   asian: 0.000000
+                         native american: 0.000000
                                 hispanic: 0.001585
+                                   other: 0.007979
 
 Crime: fraud	Danger: 0.0282939566920201
-                        african-american: 0.000814
-                                   other: 0.002660
                                caucasian: 0.002045
+                        african-american: 0.000814
+                                   asian: 0.000000
+                         native american: 0.000000
+                                hispanic: 0.000000
+                                   other: 0.002660
 
 Crime: arrest case no charge	Danger: 0.04525725543498993
-                                   other: 0.130319
                                caucasian: 0.139877
                         african-american: 0.174539
-                                hispanic: 0.152139
-                         native american: 0.176471
                                    asian: 0.125000
+                         native american: 0.176471
+                                hispanic: 0.152139
+                                   other: 0.130319
 
 Crime: dui/dwi	Danger: 0.2598720215834104
                                caucasian: 0.084663
                         african-american: 0.015472
-                                hispanic: 0.064976
-                         native american: 0.058824
-                                   other: 0.018617
                                    asian: 0.062500
+                         native american: 0.058824
+                                hispanic: 0.064976
+                                   other: 0.018617
 
 Crime: kidnapping	Danger: 0.27089927593866986
-                                hispanic: 0.001585
+                               caucasian: 0.000000
                         african-american: 0.000271
+                                   asian: 0.000000
+                         native american: 0.000000
+                                hispanic: 0.001585
+                                   other: 0.000000
 
 Crime: prostitution	Danger: 0.2855349040279786
-                                hispanic: 0.006339
-                        african-american: 0.002714
                                caucasian: 0.003681
+                        african-american: 0.002714
+                                   asian: 0.000000
+                         native american: 0.000000
+                                hispanic: 0.006339
                                    other: 0.002660
 
 Crime: driving with invalid license	Danger: 0.3454322196277125
                                caucasian: 0.026585
                         african-american: 0.047774
-                                hispanic: 0.042789
-                                   other: 0.021277
                                    asian: 0.031250
                          native american: 0.117647
+                                hispanic: 0.042789
+                                   other: 0.021277
 
 Crime: violence against children/elderly/women	Danger: 0.3483074051993234
-                                hispanic: 0.023772
-                        african-american: 0.017101
                                caucasian: 0.015951
-                                   other: 0.018617
-                         native american: 0.058824
+                        african-american: 0.017101
                                    asian: 0.062500
+                         native american: 0.058824
+                                hispanic: 0.023772
+                                   other: 0.018617
 
 Crime: other crimes	Danger: 0.35422787571238484
                                caucasian: 0.158691
                         african-american: 0.187025
-                                   other: 0.188830
-                                hispanic: 0.182250
                                    asian: 0.125000
                          native american: 0.058824
+                                hispanic: 0.182250
+                                   other: 0.188830
 
 Crime: carjacking	Danger: 0.37692148486773175
+                               caucasian: 0.000000
                         african-american: 0.000543
+                                   asian: 0.000000
+                         native american: 0.000000
+                                hispanic: 0.000000
+                                   other: 0.000000
 
 Crime: assault	Danger: 0.4355736314491541
-                                   other: 0.332447
-                        african-american: 0.215527
                                caucasian: 0.244172
-                                hispanic: 0.261490
-                         native american: 0.235294
+                        african-american: 0.215527
                                    asian: 0.406250
+                         native american: 0.235294
+                                hispanic: 0.261490
+                                   other: 0.332447
 
 Crime: murder	Danger: 0.4497196048498154
                                caucasian: 0.000818
                         african-american: 0.000543
+                                   asian: 0.000000
+                         native american: 0.000000
+                                hispanic: 0.000000
+                                   other: 0.000000
 
 Crime: selling/purchasing/delivering drugs	Danger: 0.5370514570939832
-                        african-american: 0.016287
                                caucasian: 0.015542
-                                   other: 0.013298
-                                hispanic: 0.012678
+                        african-american: 0.016287
                                    asian: 0.031250
+                         native american: 0.000000
+                                hispanic: 0.012678
+                                   other: 0.013298
 
 Crime: burglary / theft	Danger: 0.5522383575638136
-                        african-american: 0.144137
-                                   other: 0.154255
-                                hispanic: 0.129952
                                caucasian: 0.124335
+                        african-american: 0.144137
                                    asian: 0.125000
                          native american: 0.058824
+                                hispanic: 0.129952
+                                   other: 0.154255
 
 Crime: trespassing	Danger: 0.5628369415507597
                                caucasian: 0.003272
                         african-american: 0.003800
+                                   asian: 0.000000
+                         native american: 0.000000
+                                hispanic: 0.000000
                                    other: 0.005319
 
 Crime: possession (drugs)	Danger: 0.6013310579427829
-                        african-american: 0.160695
                                caucasian: 0.175051
+                        african-american: 0.160695
+                                   asian: 0.031250
+                         native american: 0.235294
                                 hispanic: 0.117274
                                    other: 0.101064
-                         native american: 0.235294
-                                   asian: 0.031250
 
 Crime: trafficking	Danger: 0.6882676035165787
-                        african-american: 0.000543
                                caucasian: 0.000818
+                        african-american: 0.000543
+                                   asian: 0.000000
+                         native american: 0.000000
                                 hispanic: 0.003170
                                    other: 0.002660
 
