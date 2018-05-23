@@ -2,7 +2,7 @@
 # @Author: Abhi
 # @Date:   2018-05-22 16:27:06
 # @Last Modified by:   Abhi
-# @Last Modified time: 2018-05-22 23:02:17
+# @Last Modified time: 2018-05-22 23:29:24
 
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
@@ -100,13 +100,30 @@ if __name__ == "__main__":
 	counterByGroup = Counter()
 	counterByCrime = Counter()
 	groupDangers = {}
-	# crimeSentiments = {}
+	crimeSentiments = {}
 	bigData = {}
 
-	file = open("unique-crimes.txt", "r")
+	crimeSentimentsPkl = "crimeSentiments.pkl"
+	if os.path.exists(crimeSentimentsPkl):
+		with open(crimeSentimentsPkl, 'rb') as pklfile:
+			crimeSentiments = pkl.load(pklfile)
+	else:	
+		with open(crimeSentimentsPkl, 'wb') as pklfile:
+			file = open("unique-crimes.txt", "r")
+			file_ext = open("unique-crimes_exp.txt", "r")
+			while True:
+				line = file.readline().strip().lower()
+				line_ext = file_ext.readline().strip()
+				if not line:
+					break
+				if line[:2] != "- ":
+					print(line_ext)
+					crimeSentiments[line] = io.sentiment_hq(line_ext)
+			file.close()
+			file_ext.close()
+			pkl.dump(crimeSentiments, pklfile)
 
-	group = ""
-	line = "1"
+	file = open("unique-crimes.txt", "r")
 	while True:
 		line = file.readline().strip().lower()
 		if not line:
@@ -114,27 +131,18 @@ if __name__ == "__main__":
 		if line[:2] == "- ":
 			group = line[2:]
 		else:
-			# crimeSentiments[line] = io.sentiment_hq(line)
 			crimesByGroup[line] = group
 			crimeToGroups[group].append(line)
 			counterByCrime[line] += 1
 			counterByGroup[group] += 1
 	file.close()
 
-	groupDangersPkl = "groupDangers.pkl"
-	if os.path.exists(groupDangersPkl):
-		with open(groupDangersPkl, 'rb') as pklfile:
-			groupDangers = pkl.load(pklfile)
-	else:	
-		with open(groupDangersPkl, 'wb') as pklfile:
-			for key, value in crimeToGroups.items():
-				danger = 0
-				for crime in value:
-					print(crime)
-					danger += counterByCrime[crime]*io.sentiment_hq(crime)
-				danger /= counterByGroup[key]
-				groupDangers[key] = danger
-			pkl.dump(groupDangers, pklfile)
+	for key, value in crimeToGroups.items():
+		danger = 0
+		for crime in value:
+			danger += counterByCrime[crime]*crimeSentiments[crime]
+		danger /= counterByGroup[key]
+		groupDangers[key] = danger
 
 
 	datafile = "compas-scores-two-years.csv"
