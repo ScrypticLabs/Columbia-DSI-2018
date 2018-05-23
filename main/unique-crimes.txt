@@ -12,6 +12,7 @@ Trafficking 4-14 Grams Heroin
 Trafficking In Cocaine 200-400
 Trafficking In Cocaine 28><200
 Trafficking In Cocaine,+28-200
+Armed Trafficking in Cannabis
 - Possession (Drugs)
 Pos Cannabis For Consideration
 Pos Cannabis W/Intent Sel/Del
@@ -74,51 +75,22 @@ Possession of Morphine
 Possession of Oxycodone
 Possession of XLR11
 Use/Poss/Drug Para/Plant/Grow
+- Selling/purchasing/delivering drugs
+Sell Cannabis
+Sell Cocaine 1000FT School
+Sell Conterfeit Cont Substance
+Sell Cannabis 1000FTSch
 Sell/Man/Del Pos/w/int Heroin
 Sell/Man/Del/Pos/W/Int Methado
 Sel Etc/Pos/w/Int Contrft Schd
 Sel/Man/Del/Pos/W/Int Diazepam
-- Possession (others)
-Poss Anti-Shoplifting Device
-Poss Counterfeit Payment Inst
-Poss F/Arm Delinq
-Poss Firearm Commission Felony
-Poss Firearm W/Altered ID#
-Poss Handcuff Key While IC
-Poss Mot Veh Mfg "ID" Removed
-Poss Similitude of Drivers Lic
-Poss Unlaw Issue Driver Licenc
-Poss Unlaw Issue Id
-Poss Wep Conv Felon
-Poss of Firearm by Convic Felo
-Poss of Vessel w/Altered ID NO
-Possess Countrfeit Credit Card
-Possess Drug Paraphernalia
-Possess Mot Veh W/Alt Vin #
-Possess Tobacco Product Under 18
-Possess Weapon On School Prop
-Possess w/I/Utter Forged Bills
-Possess/Use Weapon 1 Deg Felon
-Possession Burglary Tools
-Possession Child Pornography
-Possession False Prescription
-Possession Firearm School Prop
-Possession Of Alcohol Under 21
-Possession of Alcohol Under 21
-- Selling
-Sell Cannabis
-Sell Cannabis 1000FTSch
-Sell Cocaine 1000FT School
-Sell Conterfeit Cont Substance
 Sell Methamphetamine
 Sale/Del Cannabis At/Near Scho
 Sale/Del Cocaine Child Care Fa
-- Purchasing
 Purchase Cannabis
 Purchase Of Cocaine
 Purchase/P/W/Int Cannabis
 Purchasing Of Alprazolam
-- Delivery
 Del 3,4 Methylenedioxymethcath
 Del Cannabis At/Near Park
 Del Cannabis For Consideration
@@ -136,6 +108,15 @@ Deliver Cocaine 1000FT Store
 Delivery Of Drug Paraphernalia
 Delivery of 5-Fluoro PB-22
 Delivery of Heroin
+Consp Traff Oxycodone  4g><14g
+Consp Traff Oxycodone 28g><30k
+Conspiracy to Deliver Cocaine
+Conspire Traffic Illegal Drugs
+Manufacture Cannabis
+Solicit Deliver Cocaine
+Solicit Purchase Cocaine
+Solicit To Deliver Cocaine
+Sel/Pur/Mfr/Del Control Substa
 - Assault
 Agg Assault Law Enforc Officer
 Agg Assault W/int Com Fel Dome
@@ -147,26 +128,19 @@ Aggravated Assault w/Firearm
 Assault
 Assault Law Enforcement Officer
 Assault On Law Enforc Officer
-- Battery
 Agg Batt W/Arm S/B/I 25 Min/Ma
 Agg Battery Grt/Bod/Harm
 Aggrav Battery w/Deadly Weapon
-Aggrav Child Abuse-Agg Battery
 Aggravated Battery
 Aggravated Battery (Firearm)
 Aggravated Battery (Firearm/Actual Possession)
-Aggravated Battery / Pregnant
-Aggravated Battery On 65/Older
 Aid/Abet Burglary Assault/Batt
 Battery
 Battery Emergency Care Provide
 Battery On Fire Fighter
 Battery On Parking Enfor Speci
-Battery On A Person Over 65
-Battery Spouse Or Girlfriend
 Battery Upon Detainee
 Battery on Law Enforc Officer
-Battery on a Person Over 65
 Felony Batt(Great Bodily Harm)
 Felony Battery
 Felony Battery (Dom Strang)
@@ -177,11 +151,18 @@ Felony Committing Prostitution
 Prostitution/Lewd Act Assignation
 Prostitution/Lewdness/Assign
 Prostitution
+Lewd/Assignation/Prostitution
+Live on Earnings of Prostitute
+Loiter Solicit Act Prostitute
+Procure For Prostitution
+Solicit ProstitutionViolation
+Soliciting For Prostitution
+Transport Prostitution
 - Kidnapping
 Armed Kidnapping
 Kidnapping
 Kidnapping / Domestic Violence
-- Burglary
+- Burglary / theft
 Att Burgl Conv Occp
 Att Burgl Struc/Conv Dwel/Occp
 Att Burgl Unoccupied Dwel
@@ -203,8 +184,6 @@ Burglary Structure Occupied
 Burglary Structure Unoccup
 Burglary Unoccupied Dwelling
 Burglary With Assault/battery
-- Theft
-Credit Card Theft
 Grand Theft (Motor Vehicle)
 Grand Theft (motor Vehicle)
 Grand Theft Dwell Property
@@ -221,6 +200,10 @@ Retail Theft
 Retail Theft $300 1st Offense
 Retail Theft $300 2nd Offense
 Retail/Farm/Fare/Theft
+Petit Theft
+Petit Theft $100- $300
+Petit Theft Habitual Offender
+Petit Theft/ Prior Conviction
 - Robbery
 Attempted Robbery  Weapon
 Attempted Robbery Firearm
@@ -238,6 +221,7 @@ Robbery W/Firearm
 - Carjacking
 Carjacking w/o Deadly Weapon
 Carjacking with a Firearm
+Armed Carjacking
 - Murder
 Attempt Murder in the First Degree
 Murder In 2nd Degree W/firearm
@@ -276,10 +260,49 @@ Trespassing/Construction Site
 Tresspass Struct/Conveyance
 Tresspass in Struct/Convey Occupy
 Tresspass in Structure or Conveyance
+- Driving with invalid license
+Drivg While Lic Suspd/Revk/Can
+Driving License Suspended
+Driving While License Revoked
+Driving while DL Susp / Financial Resp
+No Valid DL / Non Resident
+No/Improper Drivers License
+- Fraud
+Fraud Obtain Driver License
+Fraud Obtain Food or Lodging
+Fraud Obtain/ Use Disable Permit
+Fraud Use/Persnl ID Info/Deceased
+Fraudulent Use Credit Card
+Fraudulent Use Of Credit Card
+Fraudulent Use of Credit Card
+Obtain Control Substance By Fraud
+Use Fraud OBT Rcpt/False Rcpt
+- Violence against children/elderly/women
+Aggrav Child Abuse-Agg Battery
+Aggravated Battery On 65/Older
+Battery On A Person Over 65
+Aggravated Battery / Pregnant
+Battery Spouse Or Girlfriend
+Battery on a Person Over 65
+Child Abuse
+Child Neglect/Delinquency
+Agg Abuse Elderlly/Disabled Adult
+Cruelty Toward Child
+Lewd/Lasc Battery Pers 12+/<16
+Lewd/Lasc Exhib Presence <16yr
+Lewd/Lasciv Molest Elder Persn
+Lewd Act Presence Child 16
+Procure Person Und 18/Prostitu
+Sexual Battery / Vict 12 Yrs +
+Sexual Battery Victim 12 Yrs +
+Sexual Performance by a Child
+Sex Batt Faml/Cust Vict 12-17Y
+Sex Battery Deft 18+/Vict 11-
+Trans/Harm/Material to a Minor
+Video Voyeur-<24Y on Child >16
 - Others
 Abuse Without Great Harm
 Accessory After the Fact
-Agg Abuse Elderlly/Disabled Adult
 Agg Fleeing and Eluding
 Agg Fleeing/Eluding High Speed
 Aggr Child Abuse-Torture,Punish
@@ -288,9 +311,7 @@ Aggrav Stalking After Injunctn
 Aggress/Panhandle/Beg/Solict
 Aiding Escape
 Alcoholic Beverage Violation-FL
-Armed Carjacking
 Armed False Imprisonment
-Armed Trafficking in Cannabis
 Arson in the First Degree
 Arson II (Vehicle)
 Arson in the Second Degree
@@ -304,16 +325,10 @@ Carrying A Concealed Weapon
 Carrying Concealed Firearm
 Cash Item w/Intent to Defraud
 Cause Anoth Phone Ring Repeat
-Child Abuse
-Child Neglect/Delinquency
 Compulsory Attendance Violation
 Compulsory Sch Attnd Violation
 Computer Pornography
-Consp Traff Oxycodone  4g><14g
-Consp Traff Oxycodone 28g><30k
 Conspiracy Dealing Stolen Prop
-Conspiracy to Deliver Cocaine
-Conspire Traffic Illegal Drugs
 Consume Alcoholic Bev Pub
 Contempt Of Court
 Contradict Statement
@@ -332,7 +347,6 @@ Criminal Mischief Damage <$200
 Criminal Mischief>$200<$1000
 Crlty Twrd Child Urge Oth Act
 Cruelty To Animals
-Cruelty Toward Child
 Cruelty to Animals
 Culpable Negligence
 DOC/Cause Public Danger
@@ -358,10 +372,6 @@ Disrupting School Function
 Drink Near Licensed Establishm
 Drink/Premises Licensed Estab
 Drinking Alch Beverage In Open
-Drivg While Lic Suspd/Revk/Can
-Driving License Suspended
-Driving While License Revoked
-Driving while DL Susp / Financial Resp
 Eng/Bus/Contract W/O License
 Enter City Park/ Prohibited Hrs
 Escape
@@ -407,13 +417,6 @@ Fleeing or Eluding a LEO
 Food License Violation
 Forge Revoked Expired Credit Card
 Forging Bank Bills/Promis Note
-Fraud Obtain Driver License
-Fraud Obtain Food or Lodging
-Fraud Obtain/ Use Disable Permit
-Fraud Use/Persnl ID Info/Deceased
-Fraudulent Use Credit Card
-Fraudulent Use Of Credit Card
-Fraudulent Use of Credit Card
 Gambling/Gamb Paraphernalia
 Giving False Crime Report
 Harass Witness/Victim/Information
@@ -435,23 +438,15 @@ Leave Acc/Attend Veh/More $50
 Leave Accd/Attend Veh/Less $50
 Leaving Acc/Unattended Veh
 Leaving the Scene of Accident
-Lewd Act Presence Child 16-
 Lewd or Lascivious Molestation
-Lewd/Assignation/Prostitution
-Lewd/Lasc Battery Pers 12+/<16
-Lewd/Lasc Exhib Presence <16yr
-Lewd/Lasciv Molest Elder Persn
 Lewdness Violation
 License Suspended Revoked
 Littering
-Live on Earnings of Prostitute
-Loiter Solicit Act Prostitute
 Loiter Where Sign is Posted
 Loitering/Prowling
 Lve/Scen/Acc/Veh/Prop/Damage
 Manage Busn W/O City Occup Lic
 Mandatory Susp Possess Alcohol
-Manufacture Cannabis
 Misuse Of 911 Or E911 System
 Misuse Of Wireless 911 System
 Money Launder 100K or More Dols
@@ -459,14 +454,11 @@ Neglect Child / Bodily Harm
 Neglect Child / No Bodily Harm
 Neglect/Abuse Elderly Person
 No Court Susp Petit Theft
-No Valid DL / Non Resident
 No Wholesale/ Retail Dealer Lic
-No/Improper Drivers License
 Obstruct Fire Equipment
 Obstruct Officer By Disguise
 Obstruct Officer W/Violence
 Obstuct By Solicitation
-Obtain Control Substance By Fraud
 Offer Agree Secure For Lewd Act
 Offer Agree Secure/Lewd Act
 Offn Against Intellectual Prop
@@ -481,14 +473,8 @@ POSSESS FIELD BOX WITH REGISTERED MARK
 Ped Obstruct Traf/No Permit Sol
 Permit Unauthorizd Person Drv
 Permit Unauthorized Minor Drv
-Petit Theft
-Petit Theft $100- $300
-Petit Theft Habitual Offender
-Petit Theft/ Prior Conviction
 Present Proof of Invalid Insur
 Principal In The First Degree
-Procure For Prostitution
-Procure Person Und 18/Prostitu
 Prowling/Loitering
 Reckless Display Of Weapon
 Reckless Driving
@@ -507,26 +493,15 @@ S/M/D/P/W/I Sch 1a,1b,1d,2a,2b
 S/M/D/P/W/Int 1000 Sch/Child C
 Sale of Alcoholic Bev to Minorc
 Sale/Del Counterfeit Cont Subs
-Sel/Pur/Mfr/Del Control Substa
 Sell or Offer for Sale Counterfeit Goods
-Sex Batt Faml/Cust Vict 12-17Y
-Sex Battery Deft 18+/Vict 11-
 Sex Offender Fail Comply W/Law
-Sexual Battery / Vict 12 Yrs +
-Sexual Battery Victim 12 Yrs +
-Sexual Performance by a Child
 Shoot In Occupied Dwell
 Shoot Into Vehicle
 Shoot/Throw Into Vehicle
 Simulation of Legal Process
 Sleeping On Beach
 Solic to Commit Battery
-Solicit Deliver Cocaine
-Solicit ProstitutionViolation
-Solicit Purchase Cocaine
-Solicit To Deliver Cocaine
 Solicitation On Felony 3 Deg
-Soliciting For Prostitution
 Sound Articles Over 100
 Stalking
 Stalking (Aggravated)
@@ -545,8 +520,6 @@ Throw Deadly Missile Into Veh
 Throw In Occupied Dwell
 Throw Missile Into Pub/Priv Dw
 Traffic Counterfeit Cred Cards
-Trans/Harm/Material to a Minor
-Transport Prostitution
 Unauth C/P/S Sounds>1000/Audio
 Unauth Poss ID Card or DL
 Unauthorized Interf w/Railroad
@@ -565,7 +538,6 @@ Unlicensed Contractor
 Unlicensed Telemarketing
 Unnatural/Lascivious Act
 Use Computer for Child Exploit
-Use Fraud OBT Rcpt/False Rcpt
 Use Lost Or Stolen Credit Card
 Use Of 2 Way Device To Fac Fel
 Use Scanning Device to Defraud
@@ -575,7 +547,6 @@ Uttering Forged Bills
 Uttering Forged Credit Card
 Uttering Worthless Check +$150
 Uttering a Forged Instrument
-Video Voyeur-<24Y on Child >16
 Viol Injunct Domestic Violence
 Viol Injunction Protect Dom Vi
 Viol Injunction Protect Dom Violence
@@ -586,3 +557,30 @@ Violation Of Boater Safety Id
 Violation of Injunction Order/Stalking/Cyberstalking
 Voyeurism
 Wear Mask w/Commit Offense
+Poss Anti-Shoplifting Device
+Poss Counterfeit Payment Inst
+Poss F/Arm Delinq
+Poss Firearm Commission Felony
+Poss Firearm W/Altered ID#
+Poss Handcuff Key While IC
+Poss Mot Veh Mfg "ID" Removed
+Poss Similitude of Drivers Lic
+Poss Unlaw Issue Driver Licenc
+Poss Unlaw Issue Id
+Poss Wep Conv Felon
+Poss of Firearm by Convic Felo
+Poss of Vessel w/Altered ID NO
+Possess Countrfeit Credit Card
+Possess Drug Paraphernalia
+Possess Mot Veh W/Alt Vin #
+Possess Tobacco Product Under 18
+Possess Weapon On School Prop
+Possess w/I/Utter Forged Bills
+Possess/Use Weapon 1 Deg Felon
+Possession Burglary Tools
+Possession Child Pornography
+Possession False Prescription
+Possession Firearm School Prop
+Possession Of Alcohol Under 21
+Possession of Alcohol Under 21
+Credit Card Theft
