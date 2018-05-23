@@ -14,14 +14,14 @@ Trafficking In Cocaine 28><200
 Trafficking In Cocaine,+28-200
 Armed Trafficking in Cannabis
 - Possession (Drugs)
-Possession Cannabis For Consideration
+Possession Cannabis For Consume
 Possession Cannabis with intention of Selling/Delivering
 Possession Methylenedioxymethcath with intention of delivering and selling
 Possession 3,4 MDMA (Ecstasy)
 Possession Alprazolam with intention of delivering and selling
-Possession Cntrft Contr Sub with intention of
+Possession Counterfeit Controlled Substance with intention of
 Possession Cocaine with intention of delivering and selling
-Possession Contr Subst without Prescript
+Possession Controlled Substance without Prescription
 Possession Drugs without A Prescription
 Possession Meth/Diox/Meth/Amp (MDMA)
 Possession Of 1,4-Butanediol
@@ -37,8 +37,8 @@ Possession of Cocaine with intention of delivering and selling 1000FT Park
 Possession of Methylethcathinone
 Possession/Selling/Delivering Cocaine 1000FT Chur
 Possession/Selling/Delivering Cocaine 1000FT Sch
-Possession/Selling/Delivering/Man Amobarbital
-Possession/Selling/Deliver Clonazepam
+Possession/Selling/Delivering/Manufacturing Amobarbital
+Possession/Selling/Delivering Clonazepam
 Possession/pur/Selling/deliver Cocaine
 Possession 3,4 Methylenedioxymethcath
 Possess Cannabis 1000FTSch
@@ -77,18 +77,18 @@ Use/Possession/Drug Para/Plant/Grow
 - Selling/purchasing/delivering drugs
 Sell Cannabis
 Sell Cocaine 1000FT School
-Sell Conterfeit Cont Substance
+Sell Counterfeit Cont Substance
 Sell Cannabis 1000FTSch
 Selling/Manufacturing/Delivering Possession with intention Heroin
 Selling/Manufacturing/Delivering/Possession with intention Methado
 Sel Etc/Possession with intention Counterfeit Schd
 Selling/Manufacturing/Delivering/Possession with intention Diazepam
 Sell Methamphetamine
-Sale/Delivering Cannabis At/Near Scho
+Sale/Delivering Cannabis At/Near School
 Sale/Delivering Cocaine Child Care Fa
 Purchase Cannabis
 Purchase Of Cocaine
-Purchase/P/with Int Cannabis
+Purchase/Possession with Intention of Cannabis
 Purchasing Of Alprazolam
 Delivering 3,4 Methylenedioxymethcath
 Delivering Cannabis At/Near Park
@@ -115,40 +115,40 @@ Manufacture Cannabis
 Solicit Deliver Cocaine
 Solicit Purchase Cocaine
 Solicit To Deliver Cocaine
-Selling/Pur/Mfr/Delivering Control Substa
+Selling/Purchasing/Manufacturing/Delivering Controlled Substances
 - Assault
-Aggravated Assault Law Enforc Officer
-Aggravated Assault with int Com Fel Dome
+Aggravated Assault Law Enforcement Officer
+Aggravated Assault with intention Committing Felony Domestic
 Aggravated Assault
-Aggravated Assault with Dead Weap
-Aggravated Assault with dead Weap
+Aggravated Assault with Deadly Weapon
+Aggravated Assault with deadly Weapon
 Aggravated Assault without Firearm
 Aggravated Assault with Firearm
 Assault
 Assault Law Enforcement Officer
-Assault On Law Enforc Officer
-Aggravated Batt with Arm S/B/I 25 Min/Ma
-Aggravated Battery Grt/Bod/Harm
+Assault On Law Enforcement Officer
+Aggravated Battery with Arm S/B/I 25 Min/Ma
+Aggravated Battery Great Bodily Harm
 Aggravated Battery with Deadly Weapon
 Aggravated Battery
 Aggravated Battery (Firearm)
 Aggravated Battery (Firearm/Actual Possession)
-Aid/Abet Burglary Assault/Batt
+Aid/Abet Burglary Assault/Battery
 Battery
-Battery Emergency Care Provide
+Battery Emergency Care Provider
 Battery On Fire Fighter
-Battery On Parking Enfor Speci
+Battery On Parking Enforcement Spec
 Battery Upon Detainee
-Battery on Law Enforc Officer
-Felony Batt(Great Bodily Harm)
+Battery on Law Enforcement Officer
+Felony Battery (Great Bodily Harm)
 Felony Battery
-Felony Battery (Dom Strang)
-Felony Battery with Prior Convict
+Felony Battery (Domestic Strangulation)
+Felony Battery with Prior Conviction
 - Prostitution
 Aide/Abet Prostitution Lewdness
 Felony Committing Prostitution
 Prostitution/Lewd Act Assignation
-Prostitution/Lewdness/Assign
+Prostitution/Lewdness/Assignation
 Prostitution
 Lewd/Assignation/Prostitution
 Live on Earnings of Prostitute
@@ -162,35 +162,35 @@ Armed Kidnapping
 Kidnapping
 Kidnapping / Domestic Violence
 - Burglary / theft
-Attempted Burglary Conv Occp
-Attempted Burglary Struc/Conv Dwel/Occp
-Attempted Burglary Unoccupied Dwel
-Attempt Armed Burglary Dwell
-Attempt Burglary (Struct)
-Attempted Burg/Convey/Unocc
-Attempted Burg/Structure unocc
-Burglary Dwel/Structure Convey Armed
+Attempted Burglary Convey Occupied
+Attempted Burglary Structure/Convey Dwelling Occupied
+Attempted Burglary Unoccupied Dwelling
+Attempt Armed Burglary Dwelling
+Attempt Burglary (Structure)
+Attempted Burg/Convey/Unoccupied
+Attempted Burg/Structure unoccupied
+Burglary Dwelling/Structure Convey Armed
 Burglary Assault/Battery Armed
 Burglary Conveyance Armed
 Burglary Conveyance Assault/Bat
 Burglary Conveyance Occupied
-Burglary Conveyance Unoccup
+Burglary Conveyance Unoccupied
 Burglary Dwelling Armed
-Burglary Dwelling Assault/Batt
+Burglary Dwelling Assault/Battery
 Burglary Dwelling Occupied
-Burglary Structure Assault/Batt
+Burglary Structure Assault/Battery
 Burglary Structure Occupied
-Burglary Structure Unoccup
+Burglary Structure Unoccupied
 Burglary Unoccupied Dwelling
 Burglary With Assault/battery
 Grand Theft (Motor Vehicle)
 Grand Theft (motor Vehicle)
-Grand Theft Dwell PrOperatingy
+Grand Theft Dwelling Property
 Grand Theft Firearm
 Grand Theft In The 3Rd Degree
 Grand Theft in the 1st Degree
 Grand Theft in the 3rd Degree
-Grand Theft of a Fire Extinquisher
+Grand Theft of a Fire Extinguisher
 Grand Theft of the 2nd Degree
 Grand Theft on 65 Yr or Older
 Theft
@@ -214,8 +214,8 @@ Robbery
 Robbery / No Weapon
 Robbery / Weapon
 Robbery Firearm Wearing Mask
-Robbery Sudd Snatch No Weapon
-Robbery Sudd Snatch with Weapon
+Robbery Sudden Snatch No Weapon
+Robbery Sudden Snatch with Weapon
 Robbery with Deadly Weapon
 Robbery with Firearm
 - Carjacking
@@ -228,40 +228,40 @@ Murder In 2nd Degree with firearm
 Murder in 2nd Degree
 Murder in the First Degree
 Manslaughter with Weapon/Firearm
-- DUI/DWI
-D.U.I. Serious Bodily Injury
-DUI - Enhanced
-DUI - PrOperatingy Damage/Personal Injury
-DUI Blood Alcohol Above 0.20
-DUI Level 0.15 Or Minor In Vehicle
-DUI PrOperatingy Damage/Injury
-DUI- Enhanced
-DUI/PrOperatingy Damage/Persnl Injury
-DWI with Inj Suspended License / Habit Off
+- Driving under influence/DWI
+Driving under influence Serious Bodily Injury
+Driving under influence - Enhanced
+Driving under influence - Property Damage/Personal Injury
+Driving under influence Blood Alcohol Above 0.20
+Driving under influence Level 0.15 Or Minor In Vehicle
+Driving under influence Property Damage/Injury
+Driving under influence- Enhanced
+Driving under influence/Property Damage/Personal Injury
+D with Influence with Injury Suspended License / Habit Off
 Driving Under The Influence
-Felony DUI (level 3)
-Felony DUI - Enhanced
+Felony Driving under influence (level 3)
+Felony Driving under influence - Enhanced
 Felony/Driving Under Influence
 - Trespassing
 Trespass
 Trespass After Warning
 Trespass On School Grounds
-Trespass Other Structure Conve
 Trespass Other Structure Convey
-Trespass Private PrOperatingy
+Trespass Other Structure Convey
+Trespass Private Property
 Trespass Private with Dangerous Weapon
 Trespass Structure Convey Occupy
 Trespass Structure Conveyance
-Trespass Structure with Dang Weap
+Trespass Structure with Dang Weapon
 Trespass Structure/Conveyance
-Trespass/PrOperatingy/Other Structure
+Trespass/Property/Other Structure
 Trespassing
 Trespassing/Construction Site
-Tresspass Structure Conveyance
-Tresspass in Structure Convey Occupy
-Tresspass in Structure or Conveyance
+Trespass Structure Conveyance
+Trespass in Structure Convey Occupy
+Trespass in Structure or Conveyance
 - Driving with invalid license
-Driving While License Suspended/Revoked/Can
+Driving While License Suspended/Revoked/Canceled
 Driving License Suspended
 Driving While License Revoked
 Driving while Driver's License Suspended / Financial Resp
@@ -289,16 +289,16 @@ Child Abuse
 Child Neglect/Delinquency
 Aggravated Abuse Elderly/Disabled Adult
 Cruelty Toward Child
-Lewd/Lasciviousness Battery Pers 12+/<16
-Lewd/Lasciviousness Exhib Presence <16yr
-Lewd/Lasciviousness Molest Elder Persn
+Lewd/Lasciviousness Battery Person 12+/<16
+Lewd/Lasciviousness Exhibition Presence <16yr
+Lewd/Lasciviousness Molest Elder Person
 Lewd Act Presence Child 16
-Procure Person Und 18/Prostitution
-Sexual Battery / Vict 12 Yrs +
+Procure Person Under 18/Prostitution
+Sexual Battery / Victim 12 Yrs +
 Sexual Battery Victim 12 Yrs +
 Sexual Performance by a Child
-Sex BAttempted Faml/Cust Vict 12-17Y
-Sex Battery Deft 18+/Vict 11-
+Sex Battery Attempted Family/Custodian Victim 12-17Y
+Sex Battery Deft 18+/Victim 11-
 Trans/Harm/Material to a Minor
 Video Voyeur-<24Y on Child >16
 Aggravated Child Abuse-Torture,Punish
@@ -311,8 +311,8 @@ Abuse Without Great Harm
 Accessory After the Fact
 Aggravated Fleeing and Eluding
 Aggravated Fleeing/Eluding High Speed
-Aggravated Stalking After Injunctn
-Aggression/Panhandle/Beg/Solict
+Aggravated Stalking After Injunction
+Aggression/Panhandle/Beg/Soliciting
 Aiding Escape
 Alcoholic Beverage Violation-FL
 Armed False Imprisonment
@@ -320,29 +320,29 @@ Arson in the First Degree
 Arson II (Vehicle)
 Arson in the Second Degree
 Attempted  Tamper with Physical Evidence
-Attempt Crim Use of Personal ID Info
-Attempted Deliv Control Subst
+Attempt Criminal Use of Personal ID Info
+Attempted Delivery Controlled Substance
 Attempted Escape
 Bribery Athletic Contests
-Carry Open/Uncov Bev In Pub
+Carry Open/Uncovered Beverage In Pub
 Carrying A Concealed Weapon
 Carrying Concealed Firearm
 Cash Item with intention to Defraud
-Cause Anoth Phone Ring Repeat
+Cause Another Phone Ring Repeat
 Compulsory Attendance Violation
-Compulsory Sch Attnd Violation
+Compulsory Sch Attended Violation
 Computer Pornography
 Conspiracy Dealing Stolen Prop
-Consume Alcoholic Bev Pub
+Consume Alcoholic Beverage Public
 Contempt Of Court
 Contradict Statement
 Corrupt Public Servant
 Counterfeit License Plates/Sticker
-Crim Attempt/Solic/Consp
-Crim Attempt/Solicit/Consp
-Crim Use Of Personal Id Info
-Crim Use of Personal ID Info
-Crimin Mischief Damage $1000+
+Criminal Attempt/Soliciting/Conspiracy
+Criminal Attempt/Soliciting/Conspiracy
+Criminal Use Of Personal Id Info
+Criminal Use of Personal ID Info
+Criminal Mischief Damage $1000+
 Criminal Attempt 3rd Deg Felon
 Criminal Mischief
 Criminal Mischief Damage <$200
@@ -355,24 +355,24 @@ DOC/Fighting/Threatening Words
 DWLS Canceled Disqul 1st Off
 DWLS Child Support 1st Offense
 DWLS Habitual Offender 2nd
-DWLS Susp/Cancel Revoked
+DWLS Suspended/Cancel Revoked
 DWLS Suspend Cancel Revoked
 DWLS/License Susp/Revoked
-Dealing In Stolen PrOperatingy
-Dealing in Stolen PrOperatingy
+Dealing In Stolen Property
+Dealing in Stolen Property
 Defrauding Innkeeper
 Defrauding Innkeeper $300/Less
 Defrauding Innkeeper $300/More
-Depriv LEO of Protect/Communic
-Destroy Damage Alter Elec Monitor Equip
+Depriv LEO of Protect/Communicate
+Destroy Damage Alter Electricity Monitor Equip
 Discharge Firearm From Vehicle
 Disobey Officer/Fireman
 Disorderly Conduct
 Disorderly Intoxication
 Disrupting School Function
-Drink Near Licensed Establishm
-Drink/Premises Licensed Estab
-Drinking Alch Beverage In Open
+Drink Near Licensed Establishment
+Drink/Premises Licensed Establishment
+Drinking Alcoholic Beverage In Open
 Eng/Bus/Contract without License
 Enter City Park/ Prohibited Hrs
 Escape
@@ -384,12 +384,12 @@ Exposes Culpable Negligence
 Extradition/Defendants
 Fabricating Physical Evidence
 Fail Change Address On Vehicle Reg
-Fail Obey Driv License Restrictions
+Fail Obey Driving License Restrictions
 Fail Register Career Offender
 Fail Register Vehicle
 Fail Sex Offend Report Bylaw
 Fail To Obey Police Officer
-Fail To Redeliv Hire/Leas Prop
+Fail To Redeliver Hire/Leas Prop
 Fail To Redeliver Hire Prop
 Fail To Secure Load
 Fail to Report Change/Residence
@@ -403,30 +403,30 @@ False Motor Vehicle Insurance Card
 False Name By Person Arrest
 False Ownership Info/Pawn Item
 False Reports
-False Verif Ownership Pawn Shp
+False Verification Ownership Pawn Shop
 Falsely Impersonating Officer
 Falsely Impersonating Officer
-Fel Drive License Perm Revoke
-Felon in Possession of Firearm or Amm
-Felony Driving While License Suspd
+Felony Drive License Perm Revoke
+Felon in Possession of Firearm or Ammunition
+Felony Driving While License Suspended
 Fighting/Baiting Animals
 Fish/Wildlife Viol Landing Requirements
 Flee/Elude LEO-Aggravated Flee Unsafe
-Fleeing Or Attmp Eluding A Leo
+Fleeing Or Attempted Eluding A Leo
 Fleeing or Eluding a LEO
 Food License Violation
 Forge Revoked Expired Credit Card
-Forging Bank Bills/Promis Note
-Gambling/Gamb Paraphernalia
+Forging Bank Bills/Promise Note
+Gambling/Gambling Paraphernalia
 Giving False Crime Report
 Harass Witness/Victim/Information
-Harass Witness/Victm/Informnt
+Harass Witness/Victim/Informant
 Harm Public Servant Or Family
 Hiring with Intent to Defraud
-Imperson Public Officer or Emplyee
+Impersonate Public Officer or Employee
 Indecent Exposure
 Insurance Fraud
-Interfere with Traf Cont Dev RR
+Interfere with Traffic Cont Dev RR
 Interfere With K9/Horses Duties
 Interference with Custody
 Intoxicated/Safety Of Another
@@ -434,9 +434,9 @@ Intoxicating Beverages
 Introduce Contraband Into Jail
 Issuing a Worthless Draft
 Lease For Purpose Trafficking
-Leave Acc/Attend Vehicle/More $50
-Leave Accd/Attend Vehicle/Less $50
-Leaving Acc/Unattended Vehicle
+Leave Accident/Attend Vehicle/More $50
+Leave Accident/Attend Vehicle/Less $50
+Leaving Accident/Unattended Vehicle
 Leaving the Scene of Accident
 Lewd or Lascivious Molestation
 Lewdness Violation
@@ -444,12 +444,12 @@ License Suspended Revoked
 Littering
 Loiter Where Sign is Posted
 Loitering/Prowling
-Lve/Scen/Acc/Veh/Prop/Damage
-Manage Busn without City Occup License
+Leave scene of an accidente/Property/Damage
+Manage Business without City Occupation License
 Mandatory Suspended Possess Alcohol
 Misuse Of 911 Or E911 System
 Misuse Of Wireless 911 System
-Money Launder 100K or More Dols
+Money Launder 100K or More Dollars
 Neglect Child / Bodily Harm
 Neglect Child / No Bodily Harm
 Neglect/Abuse Elderly Person
@@ -458,22 +458,22 @@ No Wholesale/ Retail Dealer License
 Obstruct Fire Equipment
 Obstruct Officer By Disguise
 Obstruct Officer with Violence
-Obstuct By Solicitation
+Obstruction By Solicitation
 Offer Agree Secure For Lewd Act
 Offer Agree Secure/Lewd Act
 Offence Against Intellectual Prop
 Open Carrying Of Weapon
-Open Container Of Alcoholic Bev
-Oper Motorcycle without Valid DL
+Open Container Of Alcoholic Beverage
+Operating Motorcycle without Valid Driver License
 Operating without Valid License
 Operating With Suspended Driver's License 2ND Offense
-Operating With Suspended Driver's License 2nd Offens
+Operating With Suspended Driver's License 2nd Offense
 PL/Unlawful Use Credit Card
 POSSESS FIELD BOX WITH REGISTERED MARK
-Ped Obstruct Traf/No Permit Sol
-Permit Unauthorizd Person Driving
+Pedal Obstruct Trafficking/No Permit Sol
+Permit Unauthorized Person Driving
 Permit Unauthorized Minor Driving
-Present Proof of Invalid Insur
+Present Proof of Invalid Insurance
 Principal In The First Degree
 Prowling/Loitering
 Reckless Display Of Weapon
@@ -487,7 +487,7 @@ Resist Officer with Violence
 Resist/Obstruct without Violence
 Resisting without Violence
 Restraining Order Dating Viol
-Retaliate Wit/Vict No Injury
+Retaliate Wit/Victim No Injury
 Ride Tri-Rail Without Paying
 Selling Manufacturing Delivering Possession with Intention Sch 1a,1b,1d,2a,2b
 Selling Manufacturing Delivering Possession with Intention 1000 Sch/Child C
@@ -500,14 +500,14 @@ Shoot Into Vehicle
 Shoot/Throw Into Vehicle
 Simulation of Legal Process
 Sleeping On Beach
-Solic to Commit Battery
+Soliciting to Commit Battery
 Solicitation On Felony 3 Deg
 Sound Articles Over 100
 Stalking
 Stalking (Aggravated)
 Structuring Transactions
 Suspended Drivers License 1st Offense
-Take Copper Other Metal Intrf/Damg Utility
+Take Copper Other Metal Interference/Damage Utility
 Tamper With Victim
 Tamper With Witness
 Tamper With Witness/Victim/CI
@@ -518,17 +518,17 @@ Threat Public Servant
 Threaten Throw Destruct Device
 Throw Deadly Missile Into Vehicle
 Throw In Occupied Dwell
-Throw Missile Into Pub/Priv Dw
-Traffic Counterfeit Cred Cards
-Unauth C/P/S Sounds>1000/Audio
-Unauth Possession ID Card or DL
-Unauthorized Interf with Railroad
-Unemployment Compensatn Fraud
-Unl/Disturb Education/Instui
-Unlawful License Use/Disply Of Others
-Unlawful LicTag/Sticker Attach
-Unlawful Malic Strike K9/Horses
-Unlawful Possession of Prson ID of another
+Throw Missile Into Pub/Private Dwelling
+Traffic Counterfeit Credit Cards
+Unauthorized C/P/S Sounds>1000/Audio
+Unauthorized Possession ID Card or Driver's License
+Unauthorized Interference with Railroad
+Unemployment Compensation Fraud
+Unlawful/Disturb Education/Institution
+Unlawful License Use/Display Of Others
+Unlawful License Tag/Sticker Attach
+Unlawful Malice Strike K9/Horses
+Unlawful Possession of Person ID of another
 Unlawful Use False Name/Identity
 Unlawful Assembly
 Unlawful Conveyance of Fuel
@@ -551,7 +551,7 @@ Violation of Injunction of Domestic Violence
 Violation Injunction Protect Dom Violence
 Violation Injunction Protect Dom Violence
 Violation Pretrial Release Dom Violence
-Violation Prot Injunc Repeat Violence
+Violation Protection Injunction Repeat Violence
 Violation License Restrictions
 Violation Of Boater Safety Id
 Violation of Injunction Order/Stalking/Cyberstalking
@@ -559,18 +559,18 @@ Voyeurism
 Wear Mask with Commit Offense
 Possession Anti-Shoplifting Device
 Possession Counterfeit Payment Inst
-Possession Firearm Delinq
+Possession Firearm Delinquency
 Possession Firearm Commission Felony
 Possession Firearm with Altered ID#
-Possession Handcuff Key While IC
+Possession Handcuff Key While Incarcerated
 Possession Motor Vehicle Mfg "ID" Removed
-Possession Similitude of Drivers Lic
-Possession Unlawful Issue Driver Licenc
+Possession Similitude of Drivers License
+Possession Unlawful Issue Driver License
 Possession Unlawful Issue Id
-Possession Wep Conv Felon
-Possession of Firearm by Convic Felo
+Possession Weapon Convicted Felon
+Possession of Firearm by Convicted Felon
 Possession of Vessel with Altered ID NO
-Possess Countrfeit Credit Card
+Possess Counterfeit Credit Card
 Possess Drug Paraphernalia
 Possess Motor Vehicle with Alt Vin #
 Possess Tobacco Product Under 18
