@@ -203,6 +203,7 @@ Retail/Farm/Fare/Theft
 Petit Theft
 Petit Theft $100- $300
 Petit Theft Habitual Offender
+Felony Petit Theft
 Petit Theft/ Prior Conviction
 - Robbery
 Attempted Robbery  Weapon
@@ -300,13 +301,16 @@ Sex Batt Faml/Cust Vict 12-17Y
 Sex Battery Deft 18+/Vict 11-
 Trans/Harm/Material to a Minor
 Video Voyeur-<24Y on Child >16
+Aggr Child Abuse-Torture,Punish
+Aggrav Child Abuse-Causes Harm
+Contribute Delinq/Depnd of Minor
+Contribute Delinquency Of A Minor
+Crlty Twrd Child Urge Oth Act
 - Others
 Abuse Without Great Harm
 Accessory After the Fact
 Agg Fleeing and Eluding
 Agg Fleeing/Eluding High Speed
-Aggr Child Abuse-Torture,Punish
-Aggrav Child Abuse-Causes Harm
 Aggrav Stalking After Injunctn
 Aggress/Panhandle/Beg/Solict
 Aiding Escape
@@ -332,8 +336,6 @@ Conspiracy Dealing Stolen Prop
 Consume Alcoholic Bev Pub
 Contempt Of Court
 Contradict Statement
-Contribute Delinq/Depnd of Minor
-Contribute Delinquency Of A Minor
 Corrupt Public Servant
 Counterfeit Lic Plates/Sticker
 Crim Attempt/Solic/Consp
@@ -345,7 +347,6 @@ Criminal Attempt 3rd Deg Felon
 Criminal Mischief
 Criminal Mischief Damage <$200
 Criminal Mischief>$200<$1000
-Crlty Twrd Child Urge Oth Act
 Cruelty To Animals
 Cruelty to Animals
 Culpable Negligence
@@ -408,7 +409,6 @@ Falsely Personating Officer
 Fel Drive License Perm Revoke
 Felon in Pos of Firearm or Amm
 Felony Driving While Lic Suspd
-Felony Petit Theft
 Fighting/Baiting Animals
 Fish/Wildlife Viol Landing Requirements
 Flee/Elude LEO-Agg Flee Unsafe
