@@ -5,21 +5,14 @@
 3. prior arrests
 4. jail time
 5. charge degree
-
----
-
-6. two year recidivism
+6. two year recidivism.
 
 - These are set against the COMPAS scores.
 
-
 ### Questions
 
-
 - What does the clustering reveal?
-
 - How does it compare with the COMPAS scores?
-
 - How does it compare with race?
 
 ### Not being used
@@ -42,18 +35,17 @@
 ### Perfecting the current plotting of distance
 
 - Variables being used:
-
-	- sex;
-	- age;
-	- prior arrests;
-	- charge degree;
-	- jail time;
-	- juvenile felonies;
-	- juvenile misdemeanors;
-	- juvenile others;
+	- `sex`;
+	- `age`;
+	- prior arrests (`priors_count`);
+	- charge degree (`c_charge_degree`);
+	- jail time (`c_jail_in`, `c_jail_out`);
+	- juvenile felonies (`juv_fel_count`);
+	- juvenile misdemeanors (`juv_misd_count`);
+	- juvenile others (`juv_other_count`);
 	- type of charge?
 
 - Visualize against:
-	- compas score;
-	- race;
-	- actual recidivism.
+	- compas score (`decile_score`);
+	- `race`;
+	- actual recidivism (`two_year_recid`; or _either_ `is_recid` or `is_violent_recid`).
