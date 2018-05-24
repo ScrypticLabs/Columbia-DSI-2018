@@ -1,0 +1,88 @@
+Race: other  Total: 376
+                                 assault: 125
+                   arrest case no charge: 49
+                            other crimes: 71
+                        burglary / theft: 58
+                      possession (drugs): 38
+            driving with invalid license: 8
+ violence against children/elderly/women: 7
+                                 dui/dwi: 7
+     selling/purchasing/delivering drugs: 5
+                                   fraud: 1
+                                 robbery: 3
+                             trespassing: 2
+                            prostitution: 1
+                             trafficking: 1
+
+Race: african-american  Total: 3684
+                                 assault: 794
+                      possession (drugs): 592
+                            other crimes: 689
+                        burglary / theft: 531
+                   arrest case no charge: 643
+            driving with invalid license: 176
+     selling/purchasing/delivering drugs: 60
+ violence against children/elderly/women: 63
+                                 dui/dwi: 57
+                                 robbery: 45
+                                   fraud: 3
+                             trespassing: 14
+                             trafficking: 2
+                              carjacking: 2
+                            prostitution: 10
+                                  murder: 2
+                              kidnapping: 1
+
+Race: caucasian  Total: 2445
+                            other crimes: 388
+                                 assault: 597
+                      possession (drugs): 428
+                   arrest case no charge: 342
+            driving with invalid license: 65
+                                 dui/dwi: 207
+                        burglary / theft: 304
+     selling/purchasing/delivering drugs: 38
+ violence against children/elderly/women: 39
+                             trespassing: 8
+                                  murder: 2
+                                 robbery: 11
+                            prostitution: 9
+                             trafficking: 2
+                                   fraud: 5
+
+Race: hispanic  Total: 631
+                                 assault: 165
+ violence against children/elderly/women: 15
+                   arrest case no charge: 96
+                      possession (drugs): 74
+                            other crimes: 115
+                        burglary / theft: 82
+            driving with invalid license: 27
+                                 dui/dwi: 41
+                            prostitution: 4
+     selling/purchasing/delivering drugs: 8
+                             trafficking: 2
+                              kidnapping: 1
+                                 robbery: 1
+
+Race: native american  Total: 17
+                   arrest case no charge: 3
+                                 dui/dwi: 1
+                                 assault: 4
+                        burglary / theft: 1
+            driving with invalid license: 2
+                      possession (drugs): 4
+ violence against children/elderly/women: 1
+                            other crimes: 1
+
+Race: asian  Total: 32
+                        burglary / theft: 4
+            driving with invalid license: 1
+                            other crimes: 4
+                                 assault: 13
+                                 dui/dwi: 2
+                   arrest case no charge: 4
+                      possession (drugs): 1
+ violence against children/elderly/women: 2
+     selling/purchasing/delivering drugs: 1
+
